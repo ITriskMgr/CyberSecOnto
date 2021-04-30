@@ -18,7 +18,7 @@ WHERE {
 } 
 
 
-Query 2
+**Query 2**
 
 PREFIX CyberSecOnto: <http://webprotege.stanford.edu/project/DpeZFWjjTksyFnolG1b70o#> 
 
@@ -33,4 +33,17 @@ WHERE {
 }
 
 
-Query 3
+**Query 3**
+
+PREFIX CyberSecOnto: <http://webprotege.stanford.edu/project/DpeZFWjjTksyFnolG1b70o#> 
+
+SELECT ?knowhow 
+
+WHERE { <http://webprotege.stanford.edu/R7bGEqPo69Ee7iBx0OvVlJD>
+
+
+CyberSecOnto:hasKnowHow ?knowhow. 
+
+}
+
+
