@@ -1,6 +1,8 @@
 This directory contains the files for the initial queries in the ontology. 
 These SPARQL queries are don in Protégé, installed on the desktop, as WebProtégé does not have SPARQL support at this time.
 
+If you want to use the SPARQL queries to run theses tests, you need to view the file as RAW to avoid formatting errors.
+
 **Query 1**
 
 PREFIX CyberSecOnto: <http://webprotege.stanford.edu/project/DpeZFWjjTksyFnolG1b70o#>
