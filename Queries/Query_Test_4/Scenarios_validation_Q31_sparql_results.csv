@@ -1,0 +1,27 @@
+entity,doc,mention,type,label
+tag:stardog:api:docs:entity:e8d6795eeee893a4ad6dbc4493c756e8,tag:stardog:api:docs:CyberSec004:JobPosting106.pdf,http://webprotege.stanford.edu/RZURyPEnzrUYA3cRsVoT2Q,http://www.w3.org/2002/07/owl#Thing,Director
+tag:stardog:api:docs:entity:a0913b33ff104ea1097e28053125c18b,tag:stardog:api:docs:CyberSec004:JobPosting106.pdf,http://webprotege.stanford.edu/R75KBU75CAau8QnZpUqkDSp,http://www.w3.org/2002/07/owl#Thing,Windows
+tag:stardog:api:docs:entity:7285138631ea9a81d2d5b0609d7c5a05,tag:stardog:api:docs:CyberSec004:JobPosting106.pdf,http://webprotege.stanford.edu/RlMYXnRCmkbbj3RX3qvfju,http://www.w3.org/2002/07/owl#Thing,Bachelor
+tag:stardog:api:docs:entity:a0913b33ff104ea1097e28053125c18b,tag:stardog:api:docs:CyberSec004:JobPosting173.pdf,http://webprotege.stanford.edu/R75KBU75CAau8QnZpUqkDSp,http://www.w3.org/2002/07/owl#Thing,Windows
+tag:stardog:api:docs:entity:e8d6795eeee893a4ad6dbc4493c756e8,tag:stardog:api:docs:CyberSec004:JobPosting173.pdf,http://webprotege.stanford.edu/RZURyPEnzrUYA3cRsVoT2Q,http://www.w3.org/2002/07/owl#Thing,Director
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting173.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NCWF
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting173.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NICE
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting173.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NIST
+tag:stardog:api:docs:entity:fb18f8c6e756efdefd932a370be352ff,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RDbretLcaEcAeSg86cbEMx5,http://www.w3.org/2002/07/owl#Thing,CISM
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NCWF
+tag:stardog:api:docs:entity:73e9e082062d11de41feab5bd7bb8776,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RBLh7VLUwuIyIzAHCpqRJ8,http://www.w3.org/2002/07/owl#Thing,CISA
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NIST
+tag:stardog:api:docs:entity:657dd0bb6514e20f49af8d77cb790b8a,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RCFv12prEPDIaRGQJAHFJOU,http://www.w3.org/2002/07/owl#Thing,NICE
+tag:stardog:api:docs:entity:9b7c2d1558716ac43530f6cae04f348b,tag:stardog:api:docs:CyberSec004:JobPosting212.pdf,http://webprotege.stanford.edu/RCIrMGKzuejrTj3fW5ivnhG,http://www.w3.org/2002/07/owl#Thing,Information Security
+tag:stardog:api:docs:entity:7285138631ea9a81d2d5b0609d7c5a05,tag:stardog:api:docs:CyberSec004:JobPosting256.pdf,http://webprotege.stanford.edu/RlMYXnRCmkbbj3RX3qvfju,http://www.w3.org/2002/07/owl#Thing,Bachelor
+tag:stardog:api:docs:entity:5289b251fb30b938d159570ee7083160,tag:stardog:api:docs:CyberSec004:JobPosting303.pdf,http://webprotege.stanford.edu/R95mgKbIED5QBFWvLcthLrk,http://www.w3.org/2002/07/owl#Thing,Internal Controls
+tag:stardog:api:docs:entity:bc584ae93d4ed14a7c344db0265c5b27,tag:stardog:api:docs:CyberSec004:JobPosting303.pdf,http://webprotege.stanford.edu/RDX3alOv4tDsVkeEgxzzkRz,http://www.w3.org/2002/07/owl#Thing,CRISC
+tag:stardog:api:docs:entity:7285138631ea9a81d2d5b0609d7c5a05,tag:stardog:api:docs:CyberSec004:JobPosting303.pdf,http://webprotege.stanford.edu/RlMYXnRCmkbbj3RX3qvfju,http://www.w3.org/2002/07/owl#Thing,Bachelor
+tag:stardog:api:docs:entity:fb18f8c6e756efdefd932a370be352ff,tag:stardog:api:docs:CyberSec004:JobPosting303.pdf,http://webprotege.stanford.edu/RDbretLcaEcAeSg86cbEMx5,http://www.w3.org/2002/07/owl#Thing,CISM
+tag:stardog:api:docs:entity:7285138631ea9a81d2d5b0609d7c5a05,tag:stardog:api:docs:CyberSec004:JobPosting50.pdf,http://webprotege.stanford.edu/RlMYXnRCmkbbj3RX3qvfju,http://www.w3.org/2002/07/owl#Thing,Bachelor
+tag:stardog:api:docs:entity:a0913b33ff104ea1097e28053125c18b,tag:stardog:api:docs:CyberSec004:JobPosting66.pdf,http://webprotege.stanford.edu/R75KBU75CAau8QnZpUqkDSp,http://www.w3.org/2002/07/owl#Thing,Windows
+tag:stardog:api:docs:entity:d8d627bf6c2f436b2f5d4fe44c12ddd0,tag:stardog:api:docs:CyberSec004:JobPosting66.pdf,http://webprotege.stanford.edu/R9RleS873TxRxY3oedY42Sc,http://www.w3.org/2002/07/owl#Thing,Certifications
+tag:stardog:api:docs:entity:7285138631ea9a81d2d5b0609d7c5a05,tag:stardog:api:docs:CyberSec004:JobPosting8.pdf,http://webprotege.stanford.edu/RlMYXnRCmkbbj3RX3qvfju,http://www.w3.org/2002/07/owl#Thing,Bachelor
+tag:stardog:api:docs:entity:bc584ae93d4ed14a7c344db0265c5b27,tag:stardog:api:docs:CyberSec004:JobPosting96.pdf,http://webprotege.stanford.edu/RDX3alOv4tDsVkeEgxzzkRz,http://www.w3.org/2002/07/owl#Thing,CRISC
+tag:stardog:api:docs:entity:fb18f8c6e756efdefd932a370be352ff,tag:stardog:api:docs:CyberSec004:JobPosting96.pdf,http://webprotege.stanford.edu/RDbretLcaEcAeSg86cbEMx5,http://www.w3.org/2002/07/owl#Thing,CISM
+tag:stardog:api:docs:entity:5289b251fb30b938d159570ee7083160,tag:stardog:api:docs:CyberSec004:JobPosting96.pdf,http://webprotege.stanford.edu/R95mgKbIED5QBFWvLcthLrk,http://www.w3.org/2002/07/owl#Thing,Internal Controls
