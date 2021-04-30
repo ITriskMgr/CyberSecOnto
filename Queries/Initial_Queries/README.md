@@ -46,4 +46,16 @@ CyberSecOnto:hasKnowHow ?knowhow.
 
 }
 
+**Query 4**
+
+PREFIX CyberSecOnto: <http://webprotege.stanford.edu/project/DpeZFWjjTksyFnolG1b70o#>
+ 
+SELECT ?knowwhat 
+
+WHERE { <http://webprotege.stanford.edu/RCfgS40OzkThXlfF7h8NCS4>
+
+CyberSecOnto:hasKnowWhat ?knowwhat. 
+
+}
+
 
