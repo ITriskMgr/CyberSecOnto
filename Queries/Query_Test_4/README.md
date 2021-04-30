@@ -7,7 +7,9 @@ The tactics are mitigated by mitigation measure recommendations in the MITRE fra
 
 prefix stardogapi: <tag:stardog:api:>
 
-select ?entity ?doc ?mention ?type ?label where {
+select ?entity ?doc ?mention ?type ?label 
+
+where {
 
 ?doc stardogapi:property:textMatch 
 
