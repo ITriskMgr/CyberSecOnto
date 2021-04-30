@@ -1,0 +1,11 @@
+Task ID;Task;;;
+T0059;Develop a plan to investigate alleged crime, violation, or suspicious activity utilizing computers and the Internet.;;;
+T0096;Establish relationships, if applicable, between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies, vendors, public relations professionals).;;;
+T0220;Resolve conflicts in laws, regulations, policies, standards, or procedures.;;;
+T0308;Analyze incident data for emerging trends. ;;;
+T0398;Perform file and registry monitoring on the running system after identifying intrusion via dynamic analysis. ;;;
+T0419;Acquire and maintain a working knowledge of constitutional issues which arise in relevant laws, regulations, policies, agreements, standards, procedures, or other issuances.;;;
+T0401;Maintain deployable cyber defense toolkit (e.g., specialized cyber defense software/hardware) to support Incident Response Team mission.;;;
+T0403;Read, interpret, write, modify, and execute simple scripts (e.g., Perl, VBScript) on Windows and UNIX systems (e.g., those that perform tasks such as: parsing large data files, automating manual tasks, and fetching/processing remote data).;;;
+T0411;Identify and/or develop reverse engineering tools to enhance capabilities and detect vulnerabilities.;;;
+T0425;Analyze organizational cyber policy.;;;
