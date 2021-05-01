@@ -14,11 +14,17 @@ where {
 ?doc stardogapi:property:textMatch 
 
   "System Security Analyst",
+  
   "Application isolation will limit what other processes and system features the exploited target can access.",
+  
   "Web Application Firewalls may be used to limit exposure of applications to prevent exploit traffic from reaching the application.",
+  
   "Segment externally facing servers and services from the rest of the network with a DMZ or on separate hosting infrastructure.",
+  
   "Use least privilege for service accounts will limit what permissions the exploited process gets on the rest of the system.",
+  
   "Regularly scan externally facing systems for vulnerabilities and establish procedures to rapidly patch systems when critical vulnerabilities are discovered through scanning and through public disclosure.",
+  
   "Regularly scan externally facing systems for vulnerabilities and establish procedures to rapidly patch systems when critical vulnerabilities are discovered through scanning and through public disclosure.".
 
 graph ?doc  {
