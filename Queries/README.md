@@ -1,4 +1,5 @@
 This directory contains the data used and produced in the initial queries and the test queries.
+The Results_Classification_v1-2e.xlsx file has the summary of the calculations and the formulas.
 
 **Initial queries**
 
