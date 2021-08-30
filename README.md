@@ -29,6 +29,3 @@ Password: obtain from the system administrator
 Endpoint:   http://dev2.gagnontech.org:5820
 
 You can select Add to My Connections, if you plan to use it more than once. From there you can run the queries that are included in the dissertation, using the information provided on GitHub or with the saved queries that may be present.
-
-![image](https://user-images.githubusercontent.com/12799898/131387128-39847244-e257-4176-ad68-8997f432567a.png)
-
