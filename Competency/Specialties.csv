@@ -1,0 +1,56 @@
+Category,Specialty,WorkRoleName,RoleID
+Technical,Offensive,Mission Assessment Specialist ,AN-ASA-002 
+Technical,Offensive,Target Developer ,AN-TGT-001 
+Technical,Offensive,Target Network Analyst ,AN-TGT-002 
+Technical,Offensive,Multi-Disciplined Language Analyst ,AN-LNG-001 
+Technical,Defensive,Software Developer ,SP-DEV-001 
+Technical,Defensive,Secure Software Assessor ,SP-DEV-002 
+Technical,Defensive,System Testing and Evaluation Specialist  ,SP-TST-001 
+Technical,Defensive,Cyber Defense Analyst ,PR-CDA-001 
+Technical,Defensive,Cyber Defense Infrastructure Support Specialist ,PR-INF-001 
+Technical,Defensive,Cyber Defense Incident Responder  ,PR-CIR-001 
+Technical,Defensive,Vulnerability Assessment Analyst ,PR-VAM-001 
+Technical,Defensive,Threat Warning Analyst ,AN-TWA-001 
+Technical,Defensive,All Source-Collection Manager ,CO-CLO-001 
+Technical,Defensive,Cyber Crime Investigator ,IN-INV-001 
+Technical,Defensive,Law Enforcement  CounterIntelligence Forensics Analyst ,IN-FOR-001 
+Technical,Defensive,Cyber Defense Forensics Analyst ,IN-FOR-002 
+Technical,Exploitation,Information Systems Security Developer  ,SP-SYS-001 
+Technical,Exploitation,Systems Developer  ,SP-SYS-002 
+Technical,Exploitation,Database Administrator ,OM-DTA-001 
+Technical,Exploitation,Technical Support Specialist ,OM-STS-001 
+Technical,Exploitation,Network Operations Specialist ,OM-NET-001 
+Technical,Exploitation,System Administrator ,OM-ADM-001 
+Technical,Exploitation,Exploitation Analyst ,AN-EXP-001 
+Technical,Exploitation,All-Source Analyst ,AN-ASA-001 
+Technical,Exploitation,Partner Integration Planner ,CO-OPL-003 
+Technical,Exploitation,Cyber Operator ,CO-OPS-001 
+Technical,Architect,Enterprise Architect,SP-ARC-001
+Technical,Architect,Security Architect,SP-ARC-002
+Business,Manager,Authorizing Official Designating Representative ,SP-RSK-001 
+Business,Manager,Privacy Officer Privacy Compliance Manager , OV-LGA-002 
+Business,Manager,Information Systems Security Manager ,OV-MGT-001 
+Business,Manager,Communications Security (COMSEC) Manager ,OV-MGT-002 
+Business,Manager,Cyber Workforce Developer and Manager  ,OV-SPP-001 
+Business,Manager,Executive Cyber Leadership  ,OV-EXL-001 
+Business,Manager,IT Investment Portfolio Manager ,OV-PMA-004 
+Business,Analyst,Research & Development Specialist  ,SP-TRD-001 
+Business,Analyst,Systems Requirements Planner  ,SP-SRP-001 
+Business,Analyst,Data Analyst  ,OM-DTA-002 
+Business,Analyst,Systems Security Analyst ,OM-ANA-001 
+Business,Analyst,Security Control Assessor ,SP-RSK-002 
+Business,Analyst,Enterprise Architect  ,SP-ARC-001 
+Business,Analyst,Security Architect  ,SP-ARC-002 
+Business,Analyst,IT Program Auditor ,OV-PMA-005 
+Business,Advisor,Cyber Legal Advisor  ,OV-LGA-001 
+Business,Advisor,Cyber Policy and Strategy Planner ,OV-SPP-002 
+Business,Advisor,Program Manager  ,OV-PMA-001 
+Business,Advisor,IT Project Manager ,OV-PMA-002 
+Business,Advisor,Product Support Manager ,OV-PMA-003 
+Business,Advisor,All Source-Collection Manager ,CO-CLO-001 
+Business,Advisor,All Source-Collection Requirements Manager ,CO-CLO-002 
+Business,Advisor,Cyber Intel Planner ,CO-OPL-001 
+Business,Advisor,Cyber Ops Planner ,CO-OPL-002 
+Business,Advisor,Knowledge Manager ,OM-KMG-001 
+Business,Training,Cyber Instructional Curriculum Developer  ,OV-TEA-001 
+Business,Training,Cyber Instructor  ,OV-TEA-002 

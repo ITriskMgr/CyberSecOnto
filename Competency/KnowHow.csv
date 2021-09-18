@@ -1,0 +1,356 @@
+CategoryName,CategoryID,KSAID,Description,Description_FR
+BaselineKnowHow,BKH,BKH0001,Knowledge of cybersecurity and confidentiality principles.,Connaissance des principes de cybersécurité et de confidentialité.
+BaselineKnowHow,BKH,BKH0002,Knowledge of cybersecurity methodologies.,Connaissance des méthodologies de cybersécurité.
+BaselineKnowHow,BKH,BKH0003,Knowledge of risk management processes.,Connaissance des processus de gestion des risques.
+BaselineKnowHow,BKH,BKH0004,Knowledge of cyber threats and vulnerabilities.,Connaissance des cybermenaces et des vulnérabilités.
+BaselineKnowHow,BKH,BKH0005,Knowledge of the specific operational impacts of cybersecurity gaps.,Connaissance des impacts opérationnels spécifiques des lacunes de cybersécurité.
+BaselineKnowHow,BKH,BKH0006,"Knowledge of laws, regulations, policies and ethics relating to cybersecurity and the protection of personal information.","Connaissance des lois, réglementations, politiques et éthiques relatives à la cybersécurité et à la protection des informations personnelles."
+BaselineKnowHow,BKH,BKH0007,Knowledge of computer network concepts and protocols,Connaissance des concepts et protocoles de réseau informatique
+BaselineKnowHow,BKH,BKH0008,Knowledge of the organization's mission and business processes.,Connaissance de la mission et des processus d'affaires de l'organisation.
+BaselineKnowHow,BKH,BKH0009,"Knowledge of emerging technologies in cybersecurity, IT and BTM.","Connaissance des technologies émergentes en cybersécurité, IT et BTM."
+BaselineKnowHow,BKH,BKH0010,Knowledge of the organization's information classification program.,Connaissance du programme de classification de l'information de l'organisation.
+BaselineKnowHow,BKH,BKH0011,Knowledge of the requirements and implementation of the risk management framework.,Connaissance des exigences et de la mise en œuvre du cadre de gestion des risques.
+BaselineKnowHow,BKH,BKH0012,"Knowledge of organizational supply chain and value chain management policies, requirements and procedures.","Connaissance de la chaîne d'approvisionnement organisationnelle et des politiques, exigences et procédures de gestion de la chaîne de valeur."
+BaselineKnowHow,BKH,BKH0013,"Knowledge of cybersecurity laws, policies, procedures and governance that apply to the organization.","Connaissance des lois, politiques, procédures et gouvernance en matière de cybersécurité qui s'appliquent à l'organisation."
+BaselineKnowHow,BKH,BKH0014,"Knowledge of management frameworks, best practices and standards used in the industry (ISO, ITIL, COBIT, PCI-DSS, etc.).","Connaissance des cadres de gestion, des meilleures pratiques et des normes utilisées dans l'industrie (ISO, ITIL, COBIT, PCI-DSS, etc.)."
+BaselineKnowHow,BKH,BKH0023,"Knowledge of international and industry standards, common frameworks and best practices in cybersecurity and business technologies","Connaissance des normes internationales et industrielles, des cadres communs et des meilleures pratiques en matière de cybersécurité et de technologies commerciales"
+Personal Effectiveness,PEC,PEC0021,Following directions,Directions suivantes
+Workplace competency,WPC,WPC0011,Choosing a Solution,Choix d'une solution
+Workplace competency,WPC,WPC0012,Generating alternatives, Génération d'alternatives
+Workplace competency,WPC,WPC0013,Identifying the Problem,Identification du problème
+Workplace competency,WPC,WPC0014,Implementing the solution,Mise en œuvre de la solution
+Workplace competency,WPC,WPC0015,"Locating, gathering, and organizing relevant information","Localisation, collecte et organisation des informations pertinentes"
+Workplace competency,WPC,WPC0017,Selecting tools,Sélection des outils
+Workplace competency,WPC,WPC0018,Troubleshooting and maintenance,Dépannage et maintenance
+Workplace competency,WPC,WPC0019,Using tools,Utilisation des outils
+AcquiredKnowHow,AKH,AKW0005,"Bilingualism, both spoken and written (English and French)","Bilinguisme, parlé et écrit (anglais et français)"
+AcquiredKnowHow,AKH,AKH0001,Ability to develop strategy in support of organizational cyber activities.,Capacité à développer une stratégie à l'appui des cyberactivités organisationnelles.
+AcquiredKnowHow,AKH,AKH0002,Knowledge of the organization’s enterprise information technology (IT) goals and objectives.,Connaissance des buts et objectifs de l'entreprise en matière de technologie de l'information (TI).
+AcquiredKnowHow,AKH,AKH0004,"Knowledge of applicable laws, statutes, regulations, standards, best practices, guidelines and procedures.","Connaissance des lois, statuts, règlements, normes, meilleures pratiques, directives et procédures applicables."
+AcquiredKnowHow,AKH,AKH0003,Knowledge of Risk Management Practices,Connaissance des pratiques de gestion des risques
+BaselineKnowHow,BKH,BKH0022,Ability to identify cybersecurity and privacy issues arising from connections with internal and external customers and partners.,Capacité à identifier les problèmes de cybersécurité et de confidentialité découlant des connexions avec les clients et partenaires internes et externes.
+BaselineKnowHow,BKH,BKH0021,Knowledge of PCI-DSS standard.,Connaissance de la norme PCI-DSS.
+BaselineKnowHow,BKH,BKH0019,Knowledge of network security architecture concepts.,Connaissance des concepts d'architecture de sécurité réseau.
+BaselineKnowHow,BKH,BKH0016,"Knowledge of concepts, terminology, operations, network and telecommunications protocols","Connaissance des concepts, de la terminologie, des opérations, des protocoles de réseau et de télécommunications"
+BaselineKnowHow,BKH,BKH0020,Knowledge of personal data security standards.,Connaissance des normes de sécurité des données personnelles.
+BaselineKnowHow,BKH,BKH0015,Knowledge of cybersecurity and privacy principles and CIA organizational requirements and data classification.,Connaissance des principes de cybersécurité et de confidentialité et des exigences organisationnelles de la CIA et de la classification des données.
+BaselineKnowHow,BKH,BKH0017,"Knowledge of physical components and architectures, components, peripherals and operating systems.","Connaissance des composants physiques et des architectures, des composants, des périphériques et des systèmes d'exploitation."
+BaselineKnowHow,BKH,BKH0018,Knowledge of the stages of cyber-attacks.,Connaissance des étapes des cyberattaques.
+PracticalKnowHow,PKH,PKH0001,Problem Solving and Decision-Making,Résoudre des problèmes et prendre des décisions
+Workplace competency,WPC,WPC0011A,Decisively choose the best solution after assessing the relative merits of each possible option,Choisissez de manière décisive la meilleure solution après avoir évalué les mérites relatifs de chaque option possible
+Workplace competency,WPC,WPC0011B,"Make difficult decisions, even in very ambiguous or ill-defined situations","Prendre des décisions difficiles, même dans des situations très ambiguës ou mal définies"
+Workplace competency,WPC,WPC0012A,Integrate information previously learned and obtained externally to generate a variety of high quality alternative approaches to the problem,Intégrer les informations apprises précédemment et obtenues en externe pour générer une variété d'approches alternatives de haute qualité au problème
+Workplace competency,WPC,WPC0012b,"Skillfully use logic and analysis to identify strengths and weaknesses, costs and benefits, and short and long term consequences of different solutions or approaches","Utiliser habilement la logique et l'analyse pour identifier les forces et les faiblesses, les coûts et avantages, et les conséquences à court et à long terme de différentes solutions ou approches"
+Workplace competency,WPC,WPC0013A,Anticipate or recognize the existence of a problem,Anticiper ou reconnaître l'existence d'un problème
+Workplace competency,WPC,WPC0013B,Identify the true nature of the problem and define critical problems,Identifier la vraie nature du problème et définir les problèmes critiques
+Workplace competency,WPC,WPC0013C,Recall previously learned information that is relevant to the problem,Rappelez les informations apprises précédemment qui sont pertinentes pour le problème
+Workplace competency,WPC,WPC0013D,Use all available referral systems to locate and obtain relevant information to understand the problem,Utilisez tous les systèmes de référence disponibles pour localiser et obtenir des informations pertinentes pour comprendre le problème
+Workplace competency,WPC,WPC0013E,Assess the importance and criticality of the problem,Évaluer l'importance et la criticité du problème
+Workplace competency,WPC,WPC0014A,Document the problem and the corrective actions taken and their results and communicate them to the appropriate parties,Documenter le problème et les mesures correctives prises et leurs résultats et les communiquer aux parties appropriées
+Workplace competency,WPC,WPC0014B,Develop a realistic approach to implement the chosen solution,Développer une approche réaliste pour mettre en œuvre la solution choisie
+Workplace competency,WPC,WPC0014C,Observe and evaluate the results of the implementation of the solution to assess the need for alternative approaches and identify lessons learned,Observer et évaluer les résultats de la mise en œuvre de la solution pour évaluer le besoin d'approches alternatives et identifier les leçons apprises
+Workplace competency,WPC,WPC0014D,Commit to finding a timely solution,S'engager à trouver une solution en temps opportun
+Workplace competency,WPC,WPC0015A,Examine the relevance and completeness of the information obtained,Examiner la pertinence et l'exhaustivité des informations obtenues
+Workplace competency,WPC,WPC0015B,Organize / reorganize information as needed to better understand the problem,Organiser / réorganiser les informations selon les besoins pour mieux comprendre le problème
+Workplace competency,WPC,WPC0015C,Recognize important gaps in existing information and take action to eliminate these gaps,Reconnaître les lacunes importantes dans les informations existantes et prendre des mesures pour éliminer ces lacunes
+Workplace competency,WPC,WPC0015D,"Effectively use internal resources (eg, internal computer networks, company filing systems) and external resources (eg, Internet search engines) to locate and gather relevant information to resolve the issue","Utiliser efficacement les ressources internes (par exemple, les réseaux informatiques internes, les systèmes de classement de l'entreprise) et les ressources externes (par exemple, les moteurs de recherche Internet) pour localiser et recueillir des informations pertinentes pour résoudre le problème"
+Workplace competency,WPC,WPC0015E,Working with tools and technology,Travailler avec les outils et la technologie
+Workplace competency,WPC,WPC0015F,Troubleshooting and maintenance,Dépannage et entretien
+Workplace competency,WPC,WPC0015G,Learn how to maintain and troubleshoot tools and technologies,Apprenez à entretenir et à dépanner les outils et technologies
+Workplace competency,WPC,WPC0015H,Determine the causes of errors and take appropriate corrective action,Déterminer les causes des erreurs et prendre les mesures correctives appropriées
+Workplace competency,WPC,WPC0015I,Solution development,Développement de solutions
+Workplace competency,WPC,WPC0015J,"Perform routine maintenance on tools, technology and equipment","Effectuer l'entretien de routine des outils, de la technologie et de l'équipement"
+Workplace competency,WPC,WPC0015K,Tool selection,Sélection d'outils
+Workplace competency,WPC,WPC0015L,Select and apply tools or technological solutions appropriate to the problem to be solved,Sélectionner et appliquer des outils ou des solutions technologiques appropriés au problème à résoudre
+Workplace competency,WPC,WPC0015M,Use of tools,Utilisation d'outils
+Workplace competency,WPC,WPC0015N,Demonstrate the appropriate use of tools and technology to perform job functions,Démontrer l'utilisation appropriée des outils et de la technologie pour exécuter les fonctions de travail
+Workplace competency,WPC,WPC0015O,"Use tools, technology and equipment in accordance with established operating procedures and safety standards","Utiliser les outils, la technologie et l'équipement conformément aux procédures d'exploitation et aux normes de sécurité établies"
+Workplace competency,WPC,WPC0016,Keeping current,Se maintenir à jour
+Workplace competency,WPC,WPC0016A,Demonstrate an interest in learning new and emerging tools and technologies,Démontrer un intérêt pour l'apprentissage des outils et technologies nouveaux et émergents
+Workplace competency,WPC,WPC0016B,Look for opportunities to improve knowledge of tools and technologies that can help streamline work and improve productivity,Rechercher des opportunités pour améliorer la connaissance des outils et des technologies qui peuvent aider à rationaliser le travail et à améliorer la productivité
+Workplace competency,WPC,WPC0016C,Adapt quickly to changes in process or technology,S'adapter rapidement aux changements de processus ou de technologie
+Academic competency,ACA,ACA0015,"Communicating (verbally, either directly, through assistive technology, or other accommodation)","Communiquer (verbalement, soit directement, par le biais d'une technologie d'assistance ou d'un autre accommodement)"
+Academic competency,ACA,ACA0015A,"Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace","Poser des questions ou signaler des problèmes ou des préoccupations aux personnes en situation d'autorité lorsque les informations ou les procédures ne sont pas claires ou doivent être améliorées, ou lorsqu'elles se sentent en danger ou menacées sur le lieu de travail"
+Academic competency,ACA,ACA0015B,"Convey information clearly, correctly, and succinctly","Transmettez les informations de manière claire, correcte et succincte"
+Academic competency,ACA,ACA0015C,Effectively use eye contact and non-verbal expression,Utiliser efficacement le contact visuel et l'expression non verbale
+Academic competency,ACA,ACA0015D,"Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)","Exprimer les informations pertinentes de manière appropriée aux individus ou aux groupes en tenant compte du public et de la nature de l'information (par exemple, technique ou controversée)"
+Academic competency,ACA,ACA0015E,Track audience responses and react appropriately to those responses,Suivez les réponses du public et réagissez de manière appropriée à ces réponses
+Academic competency,ACA,ACA0015F,"Use common English conventions including proper grammar, tone, and pace","Utilisez les conventions anglaises courantes, y compris la grammaire, le ton et le rythme appropriés"
+Academic competency,ACA,ACA0016,Listening or attending to information,Écouter ou assister aux informations
+Academic competency,ACA,ACA0016A,"Apply active listening skills using reflection, restatement, questioning, and clarification","Appliquer des compétences d'écoute active en utilisant la réflexion, la reformulation, le questionnement et la clarification"
+Academic competency,ACA,ACA0016B,Comprehend complex instructions,Comprendre des instructions complexes
+Academic competency,ACA,ACA0016C,Consider others’ viewpoints and alter opinion when it is appropriate to do so,Tenez compte des points de vue des autres et changez d’opinion quand il convient de le faire
+Academic competency,ACA,ACA0016D,Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers,Répondre efficacement aux questions des autres ou communiquer une incapacité à le faire et suggérer d'autres sources de réponses
+Academic competency,ACA,ACA0016E,Identify feelings and concerns within verbal messages,Identifier les sentiments et les préoccupations dans les messages verbaux
+Academic competency,ACA,ACA0016F,"Receive, attend to, understand, interpret, and respond to verbal messages and other cues","Recevoir, prêter attention, comprendre, interpréter et répondre aux messages verbaux et autres signaux"
+Academic competency,ACA,ACA0016G,Recognize important information in verbal messages,Reconnaître les informations importantes dans les messages verbaux
+Academic competency,ACA,ACA0017,Observing carefully,Observer attentivement
+Academic competency,ACA,ACA0017A,Ascertain relevant visual information and use appropriately,Vérifier les informations visuelles pertinentes et les utiliser de manière appropriée
+Academic competency,ACA,ACA0017B,Attend to nonverbal cues and respond appropriately,Soyez attentif aux signaux non verbaux et répondez de manière appropriée
+Academic competency,ACA,ACA0017C,"Attend to visual sources of information (e.g., video)","Accédez aux sources d'informations visuelles (par exemple, vidéo)"
+Academic competency,ACA,ACA0018,Persuasion/influence,Persuasion / influence
+Academic competency,ACA,ACA0018A,Gain commitment and ensure support for proposed ideas,Gagnez de l'engagement et assurez le soutien des idées proposées
+Academic competency,ACA,ACA0018B,Influence others,Influencer les autres
+Academic competency,ACA,ACA0018C,Persuasively present thoughts and ideas,Présenter des pensées et des idées de manière convaincante
+Academic competency,ACA,ACA0018D,Critical and Analytic Thinking,Pensée critique et analytique
+Academic competency,ACA,ACA0019,Mental agility,Agilité mentale
+Academic competency,ACA,ACA0019A,Identify connections between issues,Identifier les liens entre les problèmes
+Academic competency,ACA,ACA0019B,"Quickly understand, orient to, and learn new assignments","Comprendre, orienter et apprendre rapidement de nouvelles missions"
+Academic competency,ACA,ACA0020,Reasoning,Raisonnement
+Academic competency,ACA,ACA0020A,"Critically review, analyze, synthesize, compare, and interpret information","Examiner, analyser, synthétiser, comparer et interpréter de manière critique les informations"
+Academic competency,ACA,ACA0020B,Draw conclusions from relevant and/or missing information,Tirer des conclusions à partir d'informations pertinentes et / ou manquantes
+Academic competency,ACA,ACA0020C,"Possess sufficient inductive, and deductive reasoning ability to perform job successfully",Posséder une capacité de raisonnement inductive et déductive suffisante pour effectuer le travail avec succès
+Academic competency,ACA,ACA0020D,Understand the principles underlying the relationship among facts and apply this understanding when solving problems,Comprendre les principes qui sous-tendent la relation entre les faits et appliquer cette compréhension lors de la résolution de problèmes
+Academic competency,ACA,ACA0020E,Use logic and reasoning to identify strengths and weaknesses of alternate solutions or approaches to a problem,Utiliser la logique et le raisonnement pour identifier les forces et les faiblesses des solutions ou approches alternatives à un problème
+Academic competency,ACA,ACA0021,Common IT Applications Use,Utilisation d'applications informatiques courantes
+Academic competency,ACA,ACA0021A,"Double check work carefully and identify/correct typographical, grammatical, and other errors","Vérifiez soigneusement le travail et identifiez / corrigez les erreurs typographiques, grammaticales et autres"
+Academic competency,ACA,ACA0021B,"Understand social media and their appropriate workplace uses and non-workplaces uses, and the impact that various social media activities can have upon one’s personal and professional life","Comprendre les médias sociaux et leurs utilisations appropriées sur le lieu de travail et en dehors des lieux de travail, ainsi que l'impact que diverses activités des médias sociaux peuvent avoir sur la vie personnelle et professionnelle"
+Academic competency,ACA,ACA0021C,Use and manage electronic mail to communicate with appropriate etiquette,Utiliser et gérer le courrier électronique pour communiquer avec l'étiquette appropriée
+Academic competency,ACA,ACA0021D,Use audio and video recording equipment and software to produce digital audio and video records and communications,Utiliser du matériel et des logiciels d'enregistrement audio et vidéo pour produire des enregistrements et des communications audio et vidéo numériques
+Academic competency,ACA,ACA0021E,"Use file storage applications to store, retrieve, and sort documents","Utilisez des applications de stockage de fichiers pour stocker, récupérer et trier des documents"
+Academic competency,ACA,ACA0021F,Use Internet applications to search for information,Utilisez des applications Internet pour rechercher des informations
+Academic competency,ACA,ACA0021G,Use presentation software to effectively share information and ideas,Utilisez un logiciel de présentation pour partager efficacement des informations et des idées
+Academic competency,ACA,ACA0021H,Use spatial software to locate places and interpret spatial data,Utilisez un logiciel spatial pour localiser des lieux et interpréter les données spatiales
+Academic competency,ACA,ACA0021I,"Use spreadsheet, database, and presentation software both independently and in an integrated fashion","Utilisez un tableur, une base de données et un logiciel de présentation à la fois indépendamment et de manière intégrée"
+Academic competency,ACA,ACA0021J,"Use standard formulas and functions, format and modify content, and demonstrate competence in creating and formatting spreadsheets, graphs, or charts","Utiliser des formules et des fonctions standard, formater et modifier le contenu, et démontrer sa compétence dans la création et la mise en forme de feuilles de calcul, de graphiques ou de tableaux"
+Academic competency,ACA,ACA0021K,"Use word processing applications to compose, organize, and edit simple documents and other business communications and produce accurate outputs to print or share electronically","Utilisez des applications de traitement de texte pour composer, organiser et éditer des documents simples et d'autres communications professionnelles et produire des résultats précis à imprimer ou à partager électroniquement"
+Academic competency,ACA,ACA0022,Database Management Systems,Systèmes de gestion de bases de données
+Academic competency,ACA,ACA0022A,Demonstrate skill in generating queries and reports,Démontrer des compétences dans la génération de requêtes et de rapports
+Academic competency,ACA,ACA0022B,"Understand database management systems, query languages, table relationships, and views","Comprendre les systèmes de gestion de base de données, les langages de requête, les relations de table et les vues"
+Academic competency,ACA,ACA0022C,"Understand the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)","Comprendre les capacités et les fonctionnalités associées à diverses technologies pour organiser et gérer les informations (par exemple, bases de données, moteurs de création de signets)"
+Academic competency,ACA,ACA0023,Digital Literacy,Littératie numérique
+Academic competency,ACA,ACA0023A,"Demonstrate ability to construct knowledge by a nonlinear navigation through knowledge domains, such as in the Internet and other hypermedia environments","Démontrer sa capacité à construire des connaissances par une navigation non linéaire dans des domaines de connaissances, comme Internet et d'autres environnements hypermédias"
+Academic competency,ACA,ACA0023B,"Demonstrate ability to create authentic meaningful written and artwork by reproducing and manipulating preexisting digital text, visuals, and audio pieces","Démontrer sa capacité à créer des écrits et des illustrations authentiques et significatifs en reproduisant et en manipulant du texte numérique, des éléments visuels et des éléments audio préexistants"
+Academic competency,ACA,ACA0023C,"Demonstrate ability to critically evaluate the textual characteristics of digital media alongside their social, economic, and cultural implications","Démontrer sa capacité à évaluer de manière critique les caractéristiques textuelles des médias numériques ainsi que leurs implications sociales, économiques et culturelles"
+Academic competency,ACA,ACA0023D,Visualize graphic representation of concepts or data,Visualisez la représentation graphique de concepts ou de données
+Academic competency,ACA,ACA0024,"General Computer, Software, Information and Communication Technology Knowledge and Skills","Connaissances et compétences générales en informatique, logiciels, technologies de l'information et des communications"
+Academic competency,ACA,ACA0024A,Be able to connect common User devices to networks and secure them appropriately,Être capable de connecter les appareils des utilisateurs communs aux réseaux et de les sécuriser de manière appropriée
+Academic competency,ACA,ACA0024B,Demonstrate ability to interpret and incorporate data from multiple tool sources,Démontrer la capacité d'interpréter et d'incorporer des données provenant de plusieurs sources d'outils
+Academic competency,ACA,ACA0024C,"Demonstrate familiarity with the fundamental capabilities of computers, software, information systems, and communications systems","Démontrer une familiarité avec les capacités fondamentales des ordinateurs, des logiciels, des systèmes d'information et des systèmes de communication"
+Academic competency,ACA,ACA0024D,"Demonstrate familiarity with the fundamental principles of accessible technology, including universal design, as they relate to users of computerized content who have disabilities, sensory and/or functional limitations","Démontrer une familiarité avec les principes fondamentaux de la technologie accessible, y compris la conception universelle, en ce qui concerne les utilisateurs de contenu informatisé qui ont des handicaps, des limitations sensorielles et / ou fonctionnelles"
+Academic competency,ACA,ACA0024E,"Understand and be able to use with appropriate etiquette common communications media, including wired and wireless telephones, wearable computing, audio conferences, videoconferences, and online collaboration tools","Comprendre et être capable d'utiliser avec l'étiquette appropriée les supports de communication courants, y compris les téléphones filaires et sans fil, l'informatique portable, les audioconférences, les vidéoconférences et les outils de collaboration en ligne"
+Academic competency,ACA,ACA0024F,"Understand and efficiently use common computer hardware (e.g., desktops, laptops, tablets, PC components, cabling, wearable computing), software (e.g., operating systems, applications, communication, collaboration, and productivity software), and communication devices (e.g., telephony, wireless devices, network, and wireless systems) to perform tasks and communicate effectively","Comprendre et utiliser efficacement le matériel informatique courant (p. Ex. Ordinateurs de bureau, ordinateurs portables, tablettes, composants de PC, câblage, informatique portable), les logiciels (p. Ex., Systèmes d'exploitation, applications, logiciels de communication, de collaboration et de productivité) et les dispositifs de communication (p. Ex., Téléphonie , périphériques sans fil, réseau et systèmes sans fil) pour effectuer des tâches et communiquer efficacement"
+Academic competency,ACA,ACA0024G,"Understand capabilities and applications of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware within data centers or the “cloud”","Comprendre les capacités et les applications de l'équipement réseau, y compris les concentrateurs, les routeurs, les commutateurs, les ponts, les serveurs, les supports de transmission et le matériel associé dans les centres de données ou le «cloud»"
+Academic competency,ACA,ACA0024H,"Understand common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations, including accessible IT, assistive technology, and universal design","Comprendre la terminologie courante liée à l'utilisation de la technologie par des personnes handicapées et / ou des limitations sensorielles et fonctionnelles, y compris l'informatique accessible, la technologie d'assistance et la conception universelle"
+Academic competency,ACA,ACA0024I,"Understand how to critically evaluate online information and be aware of relevant intellectual property, patent, copyright, and data protection issues","Comprendre comment évaluer de manière critique les informations en ligne et être conscient des problèmes pertinents de propriété intellectuelle, de brevets, de droits d'auteur et de protection des données"
+Academic competency,ACA,ACA0024J,Understand network hardware devices and functions,Comprendre les périphériques et les fonctions du matériel réseau
+Academic competency,ACA,ACA0024K,"Understand terminology and function of common computer, software, information and communication technology devices, components, and concepts","Comprendre la terminologie et la fonction des ordinateurs, des logiciels, des appareils, des composants et des concepts courants des technologies de l'information et de la communication"
+Academic competency,ACA,ACA0024L,Understand the characteristics of physical and virtual data storage media,Comprendre les caractéristiques des supports de stockage de données physiques et virtuels
+Academic competency,ACA,ACA0024M,"Use a computer to search for online information and interact with websites and web applications (enterprise solutions, online stores, blogs, social networks, wikis)","Utilisez un ordinateur pour rechercher des informations en ligne et interagir avec des sites Web et des applications Web (solutions d'entreprise, boutiques en ligne, blogs, réseaux sociaux, wikis)"
+Academic competency,ACA,ACA0025,Hardware,Matériel
+Academic competency,ACA,ACA0025A,Demonstrate competence with the following technology:,Démontrer des compétences avec la technologie suivante:
+Academic competency,ACA,ACA0025B,"Assistive technology devices, (e.g., voice recognition software, screen reader, screen magnifier, on-screen keyboard, closed captioning, gesture/motion, haptics, text-to-speech)","Dispositifs de technologie d'assistance (p. Ex., Logiciel de reconnaissance vocale, lecteur d'écran, loupe d'écran, clavier à l'écran, sous-titrage codé, gestes / mouvements, haptique, synthèse vocale)"
+Academic competency,ACA,ACA0025C,Central processing unit (CPU),Unité centrale de traitement (CPU)
+Academic competency,ACA,ACA0025D,"Input devices, (e.g., mouse; keyboard; trackball; scanner; touchpad; stylus; joystick; web camera; digital camera; microphone; voice recognition; remote control; gesture/motion; haptics; and head, mouth, and eye operated controllers)","Périphériques d'entrée (par exemple, souris, clavier, boule de commande, scanner, pavé tactile, stylet, joystick, caméra Web, appareil photo numérique, microphone, reconnaissance vocale, télécommande, gestes / mouvements, haptiques et contrôleurs à commande par la tête, la bouche et les yeux)"
+Academic competency,ACA,ACA0025E,"Input/output ports, (e.g., USB, serial, parallel, network port, FireWire)","Ports d'entrée / sortie (par exemple, USB, série, parallèle, port réseau, FireWire)"
+Academic competency,ACA,ACA0025F,Memory - random-access memory (RAM) and read-only memory (ROM),Mémoire - mémoire vive (RAM) et mémoire morte (ROM)
+Academic competency,ACA,ACA0025G,"Output devices, (e.g., screens/monitors, printers, speakers, headphones, wearable computing)","Périphériques de sortie (par exemple, écrans / moniteurs, imprimantes, haut-parleurs, écouteurs, ordinateur portable)"
+Academic competency,ACA,ACA0025H,"Storage media, (e.g., internal hard disk, external hard disk, network drive, CD, DVD, USB, flash drive, memory card)","Supports de stockage (par exemple, disque dur interne, disque dur externe, lecteur réseau, CD, DVD, USB, lecteur flash, carte mémoire)"
+Academic competency,ACA,ACA0026,Information and Research Literacy,Littératie en matière d'information et de recherche
+Academic competency,ACA,ACA0026A,"Access: Search, find, and retrieve appropriate information relative to the task","Accès: recherchez, trouvez et récupérez les informations appropriées relatives à la tâche"
+Academic competency,ACA,ACA0026B,"Communicate: Communicate that research and its findings effectively and efficiently in person and through written, visual, and digital media in a way that is appropriate for the intended audience","Communiquer: communiquer cette recherche et ses conclusions de manière efficace et efficiente en personne et par le biais de médias écrits, visuels et numériques d'une manière appropriée pour le public visé"
+Academic competency,ACA,ACA0026C,"Create: Adapt, apply, design, or author information resulting from the research that describes the research and its analysis and findings, facilitates decision-making, and develops conclusions and recommendations","Créer: adapter, appliquer, concevoir ou créer des informations résultant de la recherche qui décrit la recherche, son analyse et ses résultats, facilite la prise de décision et élabore des conclusions et des recommandations"
+Academic competency,ACA,ACA0026D,Define: Be able to define a problem that needs information in order to be solved,Définir: être capable de définir un problème qui a besoin d'informations pour être résolu
+Academic competency,ACA,ACA0026E,"Evaluate: Be able to judge the quality, relevance, usefulness, efficiency, and adequacy of information and information sources for the defined purpose (including authority, bias, and timeliness of information)","Évaluer: être en mesure de juger de la qualité, de la pertinence, de l'utilité, de l'efficacité et de l'adéquation des informations et des sources d'informations pour l'objectif défini (y compris l'autorité, les préjugés et l'actualité de l'information)"
+Academic competency,ACA,ACA0026F,"Integrate: Interpret and represent data and information gathered, using quality management tools to organize, compare, contrast, summarize, and synthesize information from multiple sources","Intégrer: interpréter et représenter les données et les informations recueillies à l'aide d'outils de gestion de la qualité pour organiser, comparer, contraster, résumer et synthétiser les informations provenant de plusieurs sources"
+Academic competency,ACA,ACA0026G,Manage: Apply an organizational or classification system to organize retrieved information,Gérer: appliquer un système d'organisation ou de classification pour organiser les informations récupérées
+Academic competency,ACA,ACA0027,Operating Systems,Systèmes d'exploitation
+Academic competency,ACA,ACA0027A,Demonstrate familiarity with the security features and functions of common operating systems,Démontrer une familiarité avec les caractéristiques et les fonctions de sécurité des systèmes d'exploitation courants
+Academic competency,ACA,ACA0027B,"Demonstrate familiarity with Unix/Linux operating system structure and internals (e.g., process management, directory structure, installed applications)","Démontrer une connaissance de la structure et des éléments internes du système d'exploitation Unix / Linux (par exemple, gestion des processus, structure de répertoires, applications installées)"
+Academic competency,ACA,ACA0027C,Demonstrate familiarity with Windows command line,Démontrer une familiarité avec la ligne de commande Windows
+Academic competency,ACA,ACA0027D,"Demonstrate familiarity with Windows/Unix/Android, iOS, and Windows Mobile ports and services","Démontrer une connaissance des ports et services Windows / Unix / Android, iOS et Windows Mobile"
+Academic competency,ACA,ACA0027E,"Demonstrate skill in identifying, modifying, and manipulating applicable system components (Windows and/or Unix/Linux) (e.g., passwords, user accounts, files)","Démontrer des compétences dans l'identification, la modification et la manipulation des composants système applicables (Windows et / ou Unix / Linux) (par exemple, mots de passe, comptes d'utilisateurs, fichiers)"
+Academic competency,ACA,ACA0027F,Describe how to manage patches to IT and OT operating systems,Décrire comment gérer les correctifs des systèmes d'exploitation IT et OT
+Academic competency,ACA,ACA0027G,Explain virtualization technologies and virtual machine development and maintenance,Expliquer les technologies de virtualisation et le développement et la maintenance des machines virtuelles
+Academic competency,ACA,ACA0027H,Identify file system implementations,Identifier les implémentations de système de fichiers
+Academic competency,ACA,ACA0027I,Recognize the implications of installed patches to IT and OT systems,Reconnaître les implications des correctifs installés sur les systèmes IT et OT
+Academic competency,ACA,ACA0027J,"Understand file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip)","Comprendre les extensions de fichiers (par exemple, .dll, .bat, .zip, .pcap, .gzip)"
+Academic competency,ACA,ACA0027K,Understand how to troubleshoot basic systems and identify operating systems-related issues,Comprendre comment dépanner les systèmes de base et identifier les problèmes liés aux systèmes d'exploitation
+Academic competency,ACA,ACA0027L,Understand server and client operating systems,Comprendre les systèmes d'exploitation serveur et client
+Academic competency,ACA,ACA0027M,Understand systems administration concepts,Comprendre les concepts d'administration des systèmes
+Academic competency,ACA,ACA0028,Systems Integration,Intégration de systèmes
+Academic competency,ACA,ACA0028A,"Understand how system components are installed, integrated, and optimized","Comprendre comment les composants du système sont installés, intégrés et optimisés"
+Academic competency,ACA,ACA0028B,Understand technology integration processes,Comprendre les processus d'intégration technologique
+Academic competency,ACA,ACA0028C,"Understand web services, Service Oriented Architecture (SOA) and Application programming Interfaces (APIs)","Comprendre les services Web, l'architecture orientée services (SOA) et les interfaces de programmation d'applications (API)"
+Academic competency,ACA,ACA0029,Technology Awareness,Sensibilisation à la technologie
+Academic competency,ACA,ACA0029A,Demonstrate skill in applying and incorporating information technologies into proposed solutions,Démontrer des compétences dans l'application et l'intégration des technologies de l'information dans les solutions proposées
+Academic competency,ACA,ACA0029B,Understand industry indicators useful for identifying technology trends,Comprendre les indicateurs du secteur utiles pour identifier les tendances technologiques
+Academic competency,ACA,ACA0029C,Understand new and emerging IT and information security technologies,Comprendre les nouvelles technologies émergentes et les technologies de sécurité de l'information
+Academic competency,ACA,ACA0029D,"Understand products and nomenclature of major vendors (e.g., security suites: Trend Micro, Symantec, McAfee, Outpost, Panda, Kaspersky, etc.) and how differences affect exploitation/vulnerabilities","Comprendre les produits et la nomenclature des principaux fournisseurs (par exemple, les suites de sécurité: Trend Micro, Symantec, McAfee, Outpost, Panda, Kaspersky, etc.) et comment les différences affectent l'exploitation / les vulnérabilités"
+Academic competency,ACA,ACA0029E,"Understand the capabilities and functionality associated with various content creation technologies (e.g., wikis, social networking, blogs)","Comprendre les capacités et les fonctionnalités associées à diverses technologies de création de contenu (par exemple, les wikis, les réseaux sociaux, les blogs)"
+Academic competency,ACA,ACA0029F,"Understand the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint, wikis, blogs, web collaborations)","Comprendre les capacités et les fonctionnalités de diverses technologies collaboratives (par exemple, le groupware, SharePoint, les wikis, les blogs, les collaborations Web)"
+Academic competency,ACA,ACA0008,Computation,Calcul
+Academic competency,ACA,ACA0008A,"Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents","Additionnez, soustrayez, multipliez et divisez avec des nombres entiers, des fractions, des décimales et des pourcentages"
+Academic competency,ACA,ACA0008B,"Calculate averages, ratios, proportions, and rates","Calculer des moyennes, des ratios, des proportions et des taux"
+Academic competency,ACA,ACA0008C,Convert decimals to fractions and fractions to decimals,Convertir des décimales en fractions et des fractions en décimales
+Academic competency,ACA,ACA0008D,Convert decimals to percents and percents to decimals,Convertir les décimales en pourcentages et les pourcentages en décimales
+Academic competency,ACA,ACA0008E,Convert fractions to percents and percents to fractions,Convertir des fractions en pourcentages et des pourcentages en fractions
+Academic competency,ACA,ACA0009,Mathematics Application,Application de mathématiques
+Academic competency,ACA,ACA0009A,Translate practical problems into useful mathematical expressions,Traduire des problèmes pratiques en expressions mathématiques utiles
+Academic competency,ACA,ACA0009B,Use appropriate mathematical formulas and techniques to solve problems,Utiliser des formules et des techniques mathématiques appropriées pour résoudre des problèmes
+Academic competency,ACA,ACA0010,Measurement and estimation,Mesure et estimation
+Academic competency,ACA,ACA0010A,"Correctly convert from one measurement to another (e.g., from English to metric or International System of Units [SI], or Fahrenheit to Celsius)","Conversion correcte d'une mesure à une autre (par exemple, de l'anglais vers le système métrique ou le système international d'unités [SI], ou Fahrenheit vers Celsius)"
+Academic competency,ACA,ACA0010B,"Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed","Prenez des mesures de temps, température, distances, longueur, largeur, hauteur, périmètre, surface, volume, poids, vitesse et vitesse"
+Academic competency,ACA,ACA0010C,Use and report measurements correctly,Utiliser et rapporter correctement les mesures
+Academic competency,ACA,ACA0011,Quantification,Quantification
+Academic competency,ACA,ACA0011A,Count and place numbers in sequence,Compter et placer les nombres dans l'ordre
+Academic competency,ACA,ACA0011B,Identify and understand patterns,Identifier et comprendre les modèles
+Academic competency,ACA,ACA0011C,Read and write numbers,Lire et écrire des nombres
+Academic competency,ACA,ACA0011D,Recognize whether one number is larger than another,Reconnaître si un nombre est plus grand qu'un autre
+Academic competency,ACA,ACA0011E,Understand relationships between numbers,Comprendre les relations entre les nombres
+Academic competency,ACA,ACA0001,Attention to detail,Attention au détail
+Academic competency,ACA,ACA0001A,Detect inconsistencies,Détecter les incohérences
+Academic competency,ACA,ACA0001B,Identify implied meaning and details,Identifier la signification et les détails implicites
+Academic competency,ACA,ACA0001C,Identify missing information,Identifier les informations manquantes
+Academic competency,ACA,ACA0001D,Note details and facts,Notez les détails et les faits
+Academic competency,ACA,ACA0002,Information analysis,Analyse des informations
+Academic competency,ACA,ACA0002A,Critically evaluate and analyze information in written materials,Évaluer et analyser de manière critique les informations contenues dans les documents écrits
+Academic competency,ACA,ACA0002B,Distinguish fact from opinion,Distinguer le fait de l'opinion
+Academic competency,ACA,ACA0002C,Identify trends,Identifier les tendances
+Academic competency,ACA,ACA0002D,Review written information for completeness and relevance,Examiner les informations écrites pour en vérifier l'exhaustivité et la pertinence
+Academic competency,ACA,ACA0002E,Synthesize information from multiple written materials,Synthétiser les informations de plusieurs documents écrits
+Academic competency,ACA,ACA0003,Information integration,Intégration des informations
+Academic competency,ACA,ACA0003A,Apply what is learned from written material to new situations,Appliquer ce qui est appris du matériel écrit à de nouvelles situations
+Academic competency,ACA,ACA0003B,Integrate what is learned from written materials with prior knowledge,Intégrer ce qui est appris des documents écrits avec les connaissances antérieures
+Academic competency,ACA,ACA0003C,Use what is learned from written material to follow instructions and complete tasks,Utilisez ce qui est appris des documents écrits pour suivre les instructions et accomplir les tâches
+Academic competency,ACA,ACA0003D,Reading comprehension,Compréhension écrite
+Academic competency,ACA,ACA0003E,Comprehend meaning and identify main ideas,Comprendre le sens et identifier les idées principales
+Academic competency,ACA,ACA0003F,"Locate and understand written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations, and directions","Localiser et comprendre les informations écrites en prose et dans des documents tels que des manuels, des rapports, des notes de service, des lettres, des formulaires, des graphiques, des graphiques, des tableaux, des calendriers, des horaires, des panneaux, des avis, des demandes, des contrats, des règlements et des instructions"
+Academic competency,ACA,ACA0003G,Understand the purpose of written materials,Comprendre le but des documents écrits
+Academic competency,ACA,ACA0012,Science application,Application scientifique
+Academic competency,ACA,ACA0012A,Apply basic scientific principles and technology to complete tasks,Appliquer les principes scientifiques de base et la technologie pour accomplir des tâches
+Academic competency,ACA,ACA0012B,"Evaluate scientific constructs including: conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables.","Évaluer les concepts scientifiques, notamment: les conclusions, les données contradictoires, les contrôles, les données, les inférences, les limites, les questions, les sources d'erreurs et les variables."
+Academic competency,ACA,ACA0012C,"Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings","Formuler des questions scientifiquement étudiables, mener des enquêtes, collecter et évaluer des données et élaborer des recommandations scientifiques basées sur les résultats"
+Academic competency,ACA,ACA0013,Science comprehension,Compréhension scientifique
+Academic competency,ACA,ACA0013A,Understand basic scientific principles and use appropriate technology,Comprendre les principes scientifiques de base et utiliser la technologie appropriée
+Academic competency,ACA,ACA0013B,Understand overall intent and proper procedures for set-up and operation of equipment,Comprendre l'intention générale et les procédures appropriées pour l'installation et le fonctionnement de l'équipement
+Academic competency,ACA,ACA0013C,"Understand the scientific method (i.e., identify problem, collect information, form opinion, and draw conclusions)","Comprendre la méthode scientifique (c.-à-d. Identifier le problème, recueillir des informations, se forger une opinion et tirer des conclusions)"
+Academic competency,ACA,ACA0014,Scientific Investigation,Investigation scientifique
+Academic competency,ACA,ACA0014A,"Evaluate scientific constructs including: conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables.","Évaluer les concepts scientifiques, notamment: les conclusions, les données contradictoires, les contrôles, les données, les inférences, les limites, les questions, les sources d'erreurs et les variables."
+Academic competency,ACA,ACA0014B,"Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings","Formuler des questions scientifiquement étudiables, mener des enquêtes, collecter et évaluer des données et élaborer des recommandations scientifiques basées sur les résultats"
+Academic competency,ACA,ACA0005,Organization and development,Organisation et développement
+Academic competency,ACA,ACA0005A,"Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, and coherent manner","Communiquer des pensées, des idées, des informations, des messages et d'autres informations écrites, qui peuvent contenir du matériel technique, de manière logique, organisée et cohérente"
+Academic competency,ACA,ACA0005B,"Create documents such as letters, directions, manuals, reports, graphs, and flow charts","Créez des documents tels que des lettres, des instructions, des manuels, des rapports, des graphiques et des organigrammes"
+Academic competency,ACA,ACA0005C,Distribute written material appropriately for intended audience and purpose,Distribuer le matériel écrit de manière appropriée pour le public et l'objectif visés
+Academic competency,ACA,ACA0005D,Present well developed ideas supported by information and examples,Présenter des idées bien développées appuyées par des informations et des exemples
+Academic competency,ACA,ACA0005E,Proofread finished documents for errors,Relire les documents finis pour les erreurs
+Academic competency,ACA,ACA0005F,Tailor content to appropriate audience and purpose,Adaptez le contenu au public et à l'objectif appropriés
+Academic competency,ACA,ACA0006,Tone,Ton
+Academic competency,ACA,ACA0006A,"Show insight, perception, and depth in writing","Faire preuve de perspicacité, de perception et de profondeur dans l'écriture"
+Academic competency,ACA,ACA0006B,"Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous)","Utilisez un ton et un choix de mots appropriés pour l'industrie et l'organisation (par exemple, l'écriture est professionnelle et courtoise)"
+Academic competency,ACA,ACA0006C,Use language appropriate for the target audience,Utilisez un langage adapté au public cible
+Academic competency,ACA,ACA0007,Writing Mechanics,Mécanique d'écriture
+Academic competency,ACA,ACA0007A,"Use correct grammar (e.g., correct tense, subject-verb agreement, no missing words)","Utilisez une grammaire correcte (par exemple, temps correct, accord sujet-verbe, pas de mots manquants)"
+Academic competency,ACA,ACA0007B,"Use correct spelling, punctuation, and capitalization","Utilisez une orthographe, une ponctuation et une majuscule correctes"
+Academic competency,ACA,ACA0007C,Use standard syntax and sentence structure,Utiliser la syntaxe et la structure de phrase standard
+Academic competency,ACA,ACA0007D,Write legibly,Ecrire lisiblement
+Workplace competency,WPC,WPC0020,Business Ethics,L'éthique des affaires
+Workplace competency,WPC,WPC0020A,"Act in the best interest of the company, the community, and the environment","Agir dans le meilleur intérêt de l'entreprise, de la communauté et de l'environnement"
+Workplace competency,WPC,WPC0020B,"Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel","Se conformer aux lois et règles applicables régissant le travail et signaler la perte, le gaspillage ou le vol de biens de l'entreprise au personnel approprié"
+Workplace competency,WPC,WPC0020C,"Demonstrate respect for coworkers, colleagues, and customers","Faire preuve de respect envers ses collègues, ses collègues et ses clients"
+Workplace competency,WPC,WPC0021,Business Practices,Pratiques commerciales
+Workplace competency,WPC,WPC0021A,Comply with the norms of conventional business etiquette,Se conformer aux normes de l'étiquette commerciale conventionnelle
+Workplace competency,WPC,WPC0021B,Demonstrate understanding of the importance of adding value to the enterprise,Démontrer une compréhension de l'importance d'ajouter de la valeur à l'entreprise
+Workplace competency,WPC,WPC0021C,Protect intellectual property and proprietary information,Protéger la propriété intellectuelle et les informations exclusives
+Workplace competency,WPC,WPC0021D,Understand fundamental and relevant business customer and supplier relationships,Comprendre les relations commerciales fondamentales et pertinentes avec les clients et les fournisseurs
+Workplace competency,WPC,WPC0021E,Use product improvement techniques,Utiliser des techniques d'amélioration des produits
+Workplace competency,WPC,WPC0022,Global Awareness,Conscience mondiale
+Workplace competency,WPC,WPC0022A,Interpret and adhere to global standards and standardization,Interpréter et adhérer aux normes mondiales et à la normalisation
+Workplace competency,WPC,WPC0022B,Understand how IT supports globalization,Comprendre comment le service informatique prend en charge la mondialisation
+Workplace competency,WPC,WPC0022C,Understand the impact of globalization on the business model,Comprendre l'impact de la mondialisation sur le modèle économique
+Workplace competency,WPC,WPC0023,Market knowledge,Connaissance du marché
+Workplace competency,WPC,WPC0023A,Know who the company’s primary competitors are and stay current on organizational strategies to maintain competitiveness,Savoir qui sont les principaux concurrents de l’entreprise et se tenir au courant des stratégies organisationnelles pour maintenir la compétitivité
+Workplace competency,WPC,WPC0023B,Recognize major challenges faced by the organization and industry and key strategies to address challenges,Reconnaître les défis majeurs auxquels sont confrontés l'organisation et l'industrie et les stratégies clés pour relever les défis
+Workplace competency,WPC,WPC0023C,Understand market trends in the industry and company’s position in the market,Comprendre les tendances du marché dans le secteur et la position de l'entreprise sur le marché
+Workplace competency,WPC,WPC0023D,Uphold the organization through building and maintaining customer relations,Soutenir l'organisation en établissant et en maintenant des relations clients
+Workplace competency,WPC,WPC0024,Situational Awareness,Connaissance de la situation
+Workplace competency,WPC,WPC0024A,Grasp the potential impact of the company’s well-being on employees,Saisir l’impact potentiel du bien-être de l’entreprise sur les employés
+Workplace competency,WPC,WPC0024B,Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization,Reconnaître son rôle dans le fonctionnement de l’organisation et comprendre l’impact potentiel que sa propre performance peut avoir sur le succès de l’organisation
+Workplace competency,WPC,WPC0024C,"Understand the mission, structure, and functions of the organization","Comprendre la mission, la structure et les fonctions de l'organisation"
+Workplace competency,WPC,WPC0024D,Creative Thinking,La pensée créative
+Workplace competency,WPC,WPC0008,Employing unique analyses,Utiliser des analyses uniques
+Workplace competency,WPC,WPC0008A,Develop innovative methods of obtaining or using resources when insufficient resources are available,Développer des méthodes innovantes pour obtenir ou utiliser des ressources lorsque les ressources sont insuffisantes
+Workplace competency,WPC,WPC0008B,"Use original analyses and generate new, innovative ideas in complex areas",Utilisez des analyses originales et générez de nouvelles idées innovantes dans des domaines complexes
+Workplace competency,WPC,WPC0009,Generating innovative solutions,Générer des solutions innovantes
+Workplace competency,WPC,WPC0009A,Entertain wide-ranging possibilities and perspectives to develop new solutions,Bénéficiez de possibilités et de perspectives étendues pour développer de nouvelles solutions
+Workplace competency,WPC,WPC0009B,Find new ways to add value to the efforts of a team and organization,Trouvez de nouvelles façons d'ajouter de la valeur aux efforts d'une équipe et d'une organisation
+Workplace competency,WPC,WPC0009C,Integrate seemingly unrelated information to develop creative processes or solutions,Intégrez des informations apparemment sans rapport pour développer des processus créatifs ou des solutions
+Workplace competency,WPC,WPC0009D,Reframe problems in a different light to find fresh approaches,Recadrez les problèmes sous un autre jour pour trouver de nouvelles approches
+Workplace competency,WPC,WPC0010,Seeing the big picture,Voir la vue d'ensemble
+Workplace competency,WPC,WPC0010A,Modify or designs systems to improve performance,Modifier ou concevoir des systèmes pour améliorer les performances
+Workplace competency,WPC,WPC0010B,Monitor patterns and trends to see a bigger picture,Surveillez les modèles et les tendances pour avoir une vue d'ensemble
+Workplace competency,WPC,WPC0010C,Understand the pieces of a system as a whole and appreciate the consequences of actions to other parts of the system,Comprendre les éléments d'un système dans son ensemble et apprécier les conséquences des actions sur d'autres parties du système
+Workplace competency,WPC,WPC0010D,Health and Safety,Santé et sécurité
+Workplace competency,WPC,WPC0025,Maintaining a healthy and safe environment,Maintenir un environnement sain et sûr
+Workplace competency,WPC,WPC0025A,"Administer first aid or CPR, if trained, and summon assistance as needed","Administrer les premiers soins ou la RCR, si formé, et demander de l'aide au besoin"
+Workplace competency,WPC,WPC0025B,Anticipate and prevent work-related injuries and illnesses,Anticiper et prévenir les accidents du travail et les maladies professionnelles
+Workplace competency,WPC,WPC0025C,"Comply with federal, state, and local regulations, and company health and safety policies","Conformez-vous aux réglementations fédérales, étatiques et locales et aux politiques de santé et de sécurité de l'entreprise"
+Workplace competency,WPC,WPC0025D,"Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response","Suivre les procédures et protocoles organisationnels pour les urgences sur le lieu de travail, y compris l'évacuation et les interventions d'urgence en toute sécurité"
+Workplace competency,WPC,WPC0025E,Maintain a sanitary and clutter-free work environment,Maintenir un environnement de travail hygiénique et sans encombrement
+Workplace competency,WPC,WPC0025F,Properly handle and dispose of hazardous materials,Manipulez et éliminez correctement les matières dangereuses
+Workplace competency,WPC,WPC0025G,"Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them","Reconnaître les dangers courants et les conditions dangereuses qui se produisent au travail, leurs risques et les contrôles appropriés pour y faire face"
+Workplace competency,WPC,WPC0025H,"Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices","Prendre des mesures pour assurer sa sécurité et celle des autres, conformément aux pratiques établies de sécurité personnelle et sur le chantier"
+Workplace competency,WPC,WPC0026,Safeguarding one’s person,Protéger sa personne
+Workplace competency,WPC,WPC0026A,"Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate","Contribuer aux discussions sur les problèmes de sécurité sur le lieu de travail, en faisant des suggestions le cas échéant"
+Workplace competency,WPC,WPC0026B,Engage in safety training,Participez à une formation sur la sécurité
+Workplace competency,WPC,WPC0026C,Recognize how workplace risks can affect one’s life and one’s family,Reconnaître comment les risques professionnels peuvent affecter sa vie et sa famille
+Workplace competency,WPC,WPC0026D,"Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible","Signaler les blessures, les incidents et les dangers sur le lieu de travail à un superviseur dès que possible en toute sécurité"
+Workplace competency,WPC,WPC0026E,Understand the legal rights of workers regarding workplace safety and protection from hazards,Comprendre les droits légaux des travailleurs concernant la sécurité au travail et la protection contre les dangers
+Workplace competency,WPC,WPC0026F,Use appropriate personal protective equipment,Utiliser un équipement de protection individuelle approprié
+Workplace competency,WPC,WPC0026G,Use equipment and tools safely,Utilisez l'équipement et les outils en toute sécurité
+Workplace competency,WPC,WPC0026H,Planning and Organizing,Planifier et organiser
+Workplace competency,WPC,WPC0005,Managing projects,Gérer des projets
+Workplace competency,WPC,WPC0005A,"Coordinate efforts with all affected parties, keeping them informed of progress and all relevant changes to project timelines","Coordonner les efforts avec toutes les parties concernées, en les tenant informées des progrès et de tous les changements pertinents aux échéanciers du projet"
+Workplace competency,WPC,WPC0005B,"Estimate personnel and other resources needed for project completion (e.g., financial material or equipment)",Estimer le personnel et les autres ressources nécessaires à l'achèvement du projet (p. Ex. Matériel financier ou équipement)
+Workplace competency,WPC,WPC0005C,"Keep track of and documents plans, assignments, changes, and deliverable","Gardez une trace et documentez les plans, les affectations, les changements et les livrables"
+Workplace competency,WPC,WPC0005D,"Manage activities to meet plans, allocating time and resources effectively","Gérer les activités pour respecter les plans, allouer efficacement le temps et les ressources"
+Workplace competency,WPC,WPC0005E,Plan for dependencies of one task on another,Planifier les dépendances d'une tâche sur une autre
+Workplace competency,WPC,WPC0005F,Take necessary corrective action when projects go off-track,Prendre les mesures correctives nécessaires lorsque les projets ne sont pas sur la bonne voie
+Workplace competency,WPC,WPC0006,Planning,Planification
+Workplace competency,WPC,WPC0006A,Anticipate obstacles to project completion and develop contingency plans to address them,Anticiper les obstacles à l'achèvement du projet et élaborer des plans d'urgence pour y remédier
+Workplace competency,WPC,WPC0006B,Approach work in a methodical manner,Aborder le travail de manière méthodique
+Workplace competency,WPC,WPC0006C,Find new ways of organizing work areas or planning work to accomplish work more efficiently,Trouvez de nouvelles façons d'organiser les zones de travail ou de planifier le travail pour accomplir le travail plus efficacement
+Workplace competency,WPC,WPC0006D,Keep track of details to ensure work is performed accurately and completely,Gardez une trace des détails pour vous assurer que le travail est effectué avec précision et complètement
+Workplace competency,WPC,WPC0006E,Plan and schedule tasks so that work is completed on time,Planifier et planifier les tâches afin que le travail soit terminé à temps
+Workplace competency,WPC,WPC0007,Prioritizing,Prioriser
+Workplace competency,WPC,WPC0007A,"Perform tasks quickly, correctly, and efficiently according to their urgency","Effectuer les tâches rapidement, correctement et efficacement en fonction de leur urgence"
+Workplace competency,WPC,WPC0007B,Prioritize multiple competing tasks,Prioriser plusieurs tâches concurrentes
+Workplace competency,WPC,WPC0007C,Solve problems and make decisions,Résoudre les problèmes et prendre des décisions
+Workplace competency,WPC,WPC0007D,Choose a solution,Choisissez une solution
+Workplace competency,WPC,WPC0007E,Decisively choose the best solution after assessing the relative merits of each possible option,Choisissez de manière décisive la meilleure solution après avoir évalué les mérites relatifs de chaque option possible
+Workplace competency,WPC,WPC0007F,"Make difficult decisions, even in very ambiguous or ill-defined situations","Prendre des décisions difficiles, même dans des situations très ambiguës ou mal définies"
+Workplace competency,WPC,WPC0001,WPC0001 Acknowledging team membership and role,WPC0001 Reconnaissance de la composition et du rôle de l'équipe
+Workplace competency,WPC,WPC0001A,Accept membership in and commit to the goals of the team,Accepter l'adhésion et s'engager à atteindre les objectifs de l'équipe
+Workplace competency,WPC,WPC0001B,Encourage others to express their ideas and opinions,Encouragez les autres à exprimer leurs idées et opinions
+Workplace competency,WPC,WPC0001C,Guide others in learning new skills,Guider les autres dans l'acquisition de nouvelles compétences
+Workplace competency,WPC,WPC0001D,Identify and draw upon team members’ strengths and weaknesses to achieve results,Identifier et tirer parti des forces et des faiblesses des membres de l’équipe pour obtenir des résultats
+Workplace competency,WPC,WPC0001E,Learn from other team members,Apprenez des autres membres de l'équipe
+Workplace competency,WPC,WPC0001F,"Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives","Servir de leader ou de suiveur, en fonction de ce qui est nécessaire pour atteindre les buts et objectifs de l'équipe"
+Workplace competency,WPC,WPC0001G,Show loyalty to the team,Faire preuve de loyauté envers l'équipe
+Workplace competency,WPC,WPC0002,WPC0002 Establishing productive relationships,WPC0002 Établissement de relations productives
+Workplace competency,WPC,WPC0002A,"Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner",Fournir des critiques constructives et exprimer des objections aux idées et opinions des autres de manière positive et non accusatoire
+Workplace competency,WPC,WPC0002B,Develop constructive and cooperative working relationships with others,Développer des relations de travail constructives et coopératives avec les autres
+Workplace competency,WPC,WPC0002C,Exhibit tact and diplomacy and strive to build consensus,Faites preuve de tact et de diplomatie et efforcez-vous de parvenir à un consensus
+Workplace competency,WPC,WPC0002D,Respond appropriately to positive and negative feedback,Répondre de manière appropriée aux commentaires positifs et négatifs
+Workplace competency,WPC,WPC0003,WPC0003 Identifying with the team and its goals,WPC0003 Identifier avec l'équipe et ses objectifs
+Workplace competency,WPC,WPC0003A,Choose behaviors and actions that best support the team and accomplishment of work tasks,Choisir les comportements et les actions qui soutiennent le mieux l'équipe et l'accomplissement des tâches de travail
+Workplace competency,WPC,WPC0003B,Effectively communicate with all members of the group or team to achieve team goals and objectives,Communiquer efficacement avec tous les membres du groupe ou de l'équipe pour atteindre les buts et objectifs de l'équipe
+Workplace competency,WPC,WPC0003C,"Identify the goals, norms, values, and customs of the team","Identifier les objectifs, les normes, les valeurs et les coutumes de l'équipe"
+Workplace competency,WPC,WPC0003D,Use a group approach to identify problems and develop solutions based on group consensus,Utiliser une approche de groupe pour identifier les problèmes et développer des solutions basées sur le consensus du groupe
+Workplace competency,WPC,WPC0003E,"Work as part of a team, contributing to the group’s effort to achieve goals",Travailler en équipe et contribuer aux efforts du groupe pour atteindre les objectifs
+Workplace competency,WPC,WPC0004,WPC0004 Resolving conflicts,WPC0004 Résolution des conflits
+Workplace competency,WPC,WPC0004A,Bring others together to reconcile differences,Rassemblez les autres pour concilier les différences
+Workplace competency,WPC,WPC0004B,Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties,Gérer les conflits avec maturité en faisant des concessions mutuelles pour obtenir des résultats positifs pour toutes les parties
+Workplace competency,WPC,WPC0004C,"Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups",Atteindre des accords formels ou informels qui favorisent des objectifs et des intérêts mutuels et obtenir l'engagement à ces accords de la part d'individus ou de groupes
+Workplace competency,WPC,WPC0004D,Working with tools and technology,Travailler avec les outils et la technologie
+Workplace competency,WPC,WPC0004E,Troubleshooting and maintenance,Dépannage et entretien
+Workplace competency,WPC,WPC0004F,Learn how to maintain and troubleshoot tools and technologies,Apprenez à entretenir et à dépanner les outils et technologies
+Workplace competency,WPC,WPC0004G,Determine the causes of errors and take appropriate corrective action,Déterminer les causes des erreurs et prendre les mesures correctives appropriées
+Workplace competency,WPC,WPC0004H,Solution development,Développement de solutions
+Workplace competency,WPC,WPC0004I,"Perform routine maintenance on tools, technology and equipment","Effectuer l'entretien de routine des outils, de la technologie et de l'équipement"
+Workplace competency,WPC,WPC0004J,Tool selection,Sélection d'outils
+Workplace competency,WPC,WPC0004K,Select and apply tools or technological solutions appropriate to the problem to be solved,Sélectionner et appliquer des outils ou des solutions technologiques appropriés au problème à résoudre
+Workplace competency,WPC,WPC0004L,Use of tools,Utilisation d'outils
+Workplace competency,WPC,WPC0004M,Demonstrate the appropriate use of tools and technology to perform job functions,Démontrer l'utilisation appropriée des outils et de la technologie pour exécuter les fonctions de travail
+Workplace competency,WPC,WPC0004N,"Use tools, technology and equipment in accordance with established operating procedures and safety standards","Utiliser les outils, la technologie et l'équipement conformément aux procédures d'exploitation et aux normes de sécurité établies"
+Workplace competency,WPC,WPC0016O,Keeping current,Rester informé des nouvelles tendances
