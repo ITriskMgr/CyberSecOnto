@@ -1,0 +1,14 @@
+Initial Access;Execution;Persistence;Privilege Escalation;Evasion;Discovery;Lateral Movement;Collection;Command and Control;Inhibit Response Function;Impair Process Control;Impact
+Data Historian Compromise;Change Operating Mode;Modify Program;Exploitation for Privilege Escalation;Change Operating Mode;Network Connection Enumeration;Default Credentials;Automated Collection;Commonly Used Port;Activate Firmware Update Mode;Brute Force I/O;Damage to Property
+Drive-by Compromise;Command-Line Interface;Module Firmware;Hooking;Exploitation for Evasion;Network Sniffing;Exploitation of Remote Services;Data from Information Repositories;Connection Proxy;Alarm Suppression;Modify Parameter;Denial of Control
+Engineering Workstation Compromise;Execution through API;Project File Infection;;Indicator Removal on Host;Remote System Discovery;Lateral Tool Transfer;Detect Operating Mode;Standard Application Layer Protocol;Block Command Message;Module Firmware;Denial of View
+Exploit Public-Facing Application;Graphical User Interface;System Firmware;;Masquerading;Remote System Information Discovery;Program Download;I/O Image;;Block Reporting Message;Spoof Reporting Message;Loss of Availability
+Exploitation of Remote Services;Hooking;Valid Accounts;;Rootkit;Wireless Sniffing;Remote Services;Man in the Middle;;Block Serial COM;Unauthorized Command Message;Loss of Control
+External Remote Services;Modify Controller Tasking;;;Spoof Reporting Message;;Valid Accounts;Monitor Process State;;Data Destruction;;Loss of Productivity and Revenue
+Internet Accessible Device;Native API;;;;;;Point & Tag Identification;;Denial of Service;;Loss of Protection
+Remote Services;Scripting;;;;;;Program Upload;;Device Restart/Shutdown;;Loss of Safety
+Replication Through Removable Media;User Execution;;;;;;Screen Capture;;Manipulate I/O Image;;Loss of View
+Rogue Master;;;;;;;Wireless Sniffing;;Modify Alarm Settings;;Manipulation of Control
+Spearphishing Attachment;;;;;;;;;Rootkit;;Manipulation of View
+Supply Chain Compromise;;;;;;;;;Service Stop;;Theft of Operational Information
+Wireless Compromise;;;;;;;;;System Firmware;;

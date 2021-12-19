@@ -1,0 +1,122 @@
+Role;Task;Count
+Red Team;T0582;3
+Red Team;T0617;3
+Red Team;T0624;3
+Red Team;T0650;3
+Red Team;T0707;3
+Red Team;T0797;3
+Red Team;T0588;2
+Red Team;T0597;2
+Red Team;T0599;2
+Red Team;T0606;2
+Red Team;T0661;2
+Red Team;T0663;2
+Red Team;T0684;2
+Red Team;T0710;2
+Red Team;T0715;2
+Red Team;T0745;2
+Red Team;T0761;2
+Red Team;T0782;2
+Red Team;T0802;2
+Blue Team;T0013;2
+Blue Team;T0014;2
+Blue Team;T0022;2
+Blue Team;T0040;2
+Blue Team;T0059;2
+Blue Team;T0096;2
+Blue Team;T0100;2
+Blue Team;T0103;2
+Blue Team;T0111;2
+Blue Team;T0113;2
+Blue Team;T0117;2
+Blue Team;T0118;2
+Blue Team;T0164;2
+Blue Team;T0171;2
+Blue Team;T0175;2
+Blue Team;T0181;2
+Blue Team;T0214;2
+Blue Team;T0217;2
+Blue Team;T0228;2
+Blue Team;T0236;2
+Blue Team;T0241;2
+Blue Team;T0279;2
+Blue Team;T0311;2
+Blue Team;T0312;2
+Blue Team;T0324;2
+Blue Team;T0337;2
+Blue Team;T0398;2
+Blue Team;T0401;2
+Blue Team;T0436;2
+Blue Team;T0503;2
+Blue Team;T0554;2
+Exploitation;T0012;2
+Exploitation;T0021;2
+Exploitation;T0053;2
+Exploitation;T0056;2
+Exploitation;T0061;2
+Exploitation;T0070;2
+Exploitation;T0107;2
+Exploitation;T0109;2
+Exploitation;T0119;2
+Exploitation;T0125;2
+Exploitation;T0181;2
+Exploitation;T0201;2
+Exploitation;T0205;2
+Exploitation;T0228;2
+Exploitation;T0242;2
+Exploitation;T0304;2
+Exploitation;T0326;2
+Exploitation;T0359;2
+Exploitation;T0449;2
+Exploitation;T0466;2
+Exploitation;T0518;2
+Exploitation;T0541;2
+Exploitation;T0544;2
+Exploitation;T0582;2
+Architecte;T0051;2
+Architecte;T0084;2
+Architecte;T0090;2
+Architecte;T0108;2
+Architecte;T0196;2
+Architecte;T0205;2
+Architecte;T0307;2
+Architecte;T0314;2
+Architecte;T0328;2
+Architecte;T0338;2
+Architecte;T0427;2
+Architecte;T0448;2
+Architecte;T0473;2
+Architecte;T0542;2
+Analyst;T0205;4
+Analyst;T0177;3
+Analyst;T0051;2
+Analyst;T0084;2
+Analyst;T0090;2
+Analyst;T0108;2
+Analyst;T0196;2
+Analyst;T0243;2
+Analyst;T0268;2
+Analyst;T0307;2
+Analyst;T0309;2
+Analyst;T0314;2
+Analyst;T0328;2
+Analyst;T0338;2
+Analyst;T0344;2
+Analyst;T0427;2
+Analyst;T0448;2
+Analyst;T0473;2
+Analyst;T0542;2
+Advisor;T0220;4
+Advisor;T0734;4
+Advisor;T0072;3
+Advisor;T0174;3
+Advisor;T0223;3
+Advisor;T0256;3
+Advisor;T0273;3
+Advisor;T0277;3
+Advisor;T0340;3
+Advisor;T0354;3
+Advisor;T0377;3
+Advisor;T0412;3
+Advisor;T0414;3
+Advisor;T0493;3

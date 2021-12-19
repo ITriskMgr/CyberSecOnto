@@ -1,0 +1,275 @@
+Role;KSA;count
+Red Team;A0013;4
+Red Team;A0089;4
+Red Team;K0001;4
+Red Team;K0002;4
+Red Team;K0003;4
+Red Team;K0004;4
+Red Team;K0005;4
+Red Team;K0006;4
+Red Team;K0108;4
+Red Team;K0177;4
+Red Team;K0431;4
+Red Team;K0449;4
+Red Team;A0066;3
+Red Team;A0080;3
+Red Team;A0084;3
+Red Team;A0085;3
+Red Team;A0087;3
+Red Team;A0088;3
+Red Team;A0091;3
+Red Team;A0101;3
+Red Team;A0102;3
+Red Team;A0106;3
+Red Team;A0109;3
+Red Team;K0109;3
+Red Team;K0349;3
+Red Team;K0362;3
+Red Team;K0392;3
+Red Team;K0395;3
+Red Team;K0413;3
+Red Team;K0417;3
+Red Team;K0436;3
+Red Team;K0440;3
+Red Team;K0444;3
+Red Team;K0445;3
+Red Team;K0471;3
+Red Team;K0499;3
+Red Team;K0516;3
+Red Team;S0187;3
+Red Team;S0194;3
+Red Team;S0203;3
+Red Team;S0218;3
+Red Team;S0228;3
+Red Team;S0229;3
+Red Team;S0256;3
+Blue Team;K0001;12
+Blue Team;K0002;12
+Blue Team;K0003;12
+Blue Team;K0004;12
+Blue Team;K0005;12
+Blue Team;K0006;12
+Blue Team;K0179;9
+Blue Team;K0070;8
+Blue Team;K0624;8
+Blue Team;A0123;6
+Blue Team;K0044;6
+Blue Team;K0332;6
+Blue Team;S0367;6
+Blue Team;K0021;5
+Blue Team;K0042;5
+Blue Team;K0058;5
+Blue Team;K0060;5
+Blue Team;K0139;5
+Blue Team;K0167;5
+Blue Team;K0177;5
+Blue Team;K0033;4
+Blue Team;K0106;4
+Blue Team;K0109;4
+Blue Team;K0168;4
+Blue Team;K0260;4
+Blue Team;K0261;4
+Blue Team;K0262;4
+Blue Team;K0342;4
+Blue Team;S0047;4
+Exploitation;K0001;8
+Exploitation;K0002;8
+Exploitation;K0003;8
+Exploitation;K0004;8
+Exploitation;K0005;8
+Exploitation;K0006;8
+Exploitation;K0260;6
+Exploitation;K0261;6
+Exploitation;K0262;6
+Exploitation;K0287;5
+Exploitation;A0013;4
+Exploitation;A0074;4
+Exploitation;K0049;4
+Exploitation;K0050;4
+Exploitation;K0179;4
+Exploitation;K0332;4
+Architect;A0008;2
+Architect;A0015;2
+Architect;A0027;2
+Architect;A0038;2
+Architect;A0123;2
+Architect;A0170;2
+Architect;A0172;2
+Architect;K0001;2
+Architect;K0002;2
+Architect;K0003;2
+Architect;K0004;2
+Architect;K0005;2
+Architect;K0006;2
+Architect;K0024;2
+Architect;K0027;2
+Architect;K0030;2
+Architect;K0035;2
+Architect;K0037;2
+Architect;K0043;2
+Architect;K0044;2
+Architect;K0052;2
+Architect;K0056;2
+Architect;K0060;2
+Architect;K0061;2
+Architect;K0063;2
+Architect;K0074;2
+Architect;K0082;2
+Architect;K0091;2
+Architect;K0093;2
+Architect;K0102;2
+Architect;K0170;2
+Architect;K0180;2
+Architect;K0198;2
+Architect;K0200;2
+Architect;K0211;2
+Architect;K0212;2
+Architect;K0214;2
+Architect;K0227;2
+Architect;K0240;2
+Architect;K0264;2
+Architect;K0275;2
+Architect;K0286;2
+Architect;K0287;2
+Architect;K0291;2
+Architect;K0293;2
+Architect;K0322;2
+Architect;K0323;2
+Architect;K0325;2
+Architect;K0326;2
+Architect;K0332;2
+Architect;K0333;2
+Architect;S0005;2
+Architect;S0024;2
+Architect;S0027;2
+Architect;S0050;2
+Architect;S0122;2
+Architect;S0367;2
+Architect;S0374;2
+Manager;K0001;6
+Manager;K0002;6
+Manager;K0003;6
+Manager;K0004;6
+Manager;K0005;6
+Manager;K0006;6
+Manager;A0033;4
+Manager;K0101;4
+Manager;K0126;4
+Manager;K0168;4
+Manager;K0169;4
+Manager;K0038;3
+Manager;K0048;3
+Manager;K0070;3
+Manager;K0072;3
+Manager;K0146;3
+Manager;K0267;3
+Manager;K0622;3
+Manager;K0624;3
+Analyst;K0001;8
+Analyst;K0002;8
+Analyst;K0003;8
+Analyst;K0004;8
+Analyst;K0005;8
+Analyst;K0006;8
+Analyst;K0056;6
+Analyst;A0123;5
+Analyst;K0018;5
+Analyst;K0019;5
+Analyst;K0044;5
+Analyst;K0060;5
+Analyst;K0170;5
+Analyst;K0200;5
+Analyst;K0287;5
+Analyst;S0367;5
+Analyst;A0015;4
+Analyst;A0170;4
+Analyst;K0024;4
+Analyst;K0035;4
+Analyst;K0043;4
+Analyst;K0052;4
+Analyst;K0059;4
+Analyst;K0061;4
+Analyst;K0063;4
+Analyst;K0093;4
+Analyst;K0102;4
+Analyst;K0126;4
+Analyst;K0169;4
+Analyst;K0179;4
+Analyst;K0180;4
+Analyst;K0267;4
+Analyst;K0322;4
+Analyst;K0325;4
+Analyst;K0333;4
+Analyst;S0005;4
+Analyst;S0027;4
+Advisor;K0001;10
+Advisor;K0002;10
+Advisor;K0003;10
+Advisor;K0004;10
+Advisor;K0005;10
+Advisor;K0006;10
+Advisor;A0070;4
+Advisor;K0036;4
+Advisor;K0109;4
+Advisor;K0120;4
+Advisor;K0146;4
+Advisor;K0194;4
+Advisor;K0395;4
+Advisor;K0417;4
+Advisor;K0431;4
+Advisor;K0435;4
+Advisor;K0444;4
+Advisor;K0445;4
+Advisor;K0446;4
+Advisor;K0480;4
+Advisor;K0560;4
+Advisor;K0561;4
+Advisor;K0565;4
+Advisor;K0610;4
+Advisor;K0612;4
+Awareness;A0057;3
+Awareness;A0013;2
+Awareness;A0015;2
+Awareness;A0018;2
+Awareness;A0019;2
+Awareness;A0022;2
+Awareness;A0024;2
+Awareness;A0032;2
+Awareness;A0055;2
+Awareness;A0058;2
+Awareness;A0063;2
+Awareness;A0070;2
+Awareness;A0083;2
+Awareness;A0089;2
+Awareness;A0105;2
+Awareness;A0106;2
+Awareness;A0112;2
+Awareness;A0114;2
+Awareness;A0118;2
+Awareness;A0119;2
+Awareness;A0171;2
+Awareness;K0001;2
+Awareness;K0002;2
+Awareness;K0003;2
+Awareness;K0004;2
+Awareness;K0005;2
+Awareness;K0006;2
+Awareness;K0059;2
+Awareness;K0124;2
+Awareness;K0146;2
+Awareness;K0147;2
+Awareness;K0204;2
+Awareness;K0208;2
+Awareness;K0213;2
+Awareness;K0216;2
+Awareness;K0217;2
+Awareness;K0220;2
+Awareness;K0239;2
+Awareness;K0245;2
+Awareness;K0246;2
+Awareness;K0250;2
+Awareness;K0252;2
+Awareness;K0287;2
+Awareness;K0628;2
+Awareness;S0064;2
+Awareness;S0070;2

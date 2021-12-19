@@ -1,0 +1,20 @@
+Initial Access;Execution;Persistence;Privilege Escalation;Defense Evasion;Credential Access;Discovery;Lateral Movement;Collection;Command and Control;Exfiltration;Impact
+Deliver Malicious App via Authorized App Store;Broadcast Receivers;Broadcast Receivers;Code Injection;Application Discovery;Access Notifications;Application Discovery;Attack PC via USB Connection;Access Calendar Entries;Alternate Network Mediums;Alternate Network Mediums;Carrier Billing Fraud
+Deliver Malicious App via Other Means;Command-Line Interface;Code Injection;Device Administrator Permissions;Code Injection;Access Sensitive Data in Device Logs;Evade Analysis Environment;Exploit Enterprise Resources;Access Call Log;Commonly Used Port;Commonly Used Port;Clipboard Modification
+Drive-by Compromise;Native Code;Compromise Application Executable;Exploit OS Vulnerability;Delete Device Data;Access Stored Application Data;File and Directory Discovery;;Access Contact List;Domain Generation Algorithms;Data Encrypted;Data Encrypted for Impact
+Exploit via Charging Station or PC;Scheduled Task/Job;Foreground Persistence;Exploit TEE Vulnerability;Device Lockout;Capture Clipboard Data;Location Tracking;;Access Notifications;Remote File Copy;Standard Application Layer Protocol;Delete Device Data
+Exploit via Radio Interfaces;;Modify Cached Executable Code;;Disguise Root/Jailbreak Indicators;Capture SMS Messages;Network Service Scanning;;Access Sensitive Data in Device Logs;Standard Application Layer Protocol;;Device Lockout
+Install Insecure or Malicious Configuration;;Modify OS Kernel or Boot Partition;;Download New Code at Runtime;Exploit TEE Vulnerability;Process Discovery;;Access Stored Application Data;Standard Cryptographic Protocol;;Generate Fraudulent Advertising Revenue
+Lockscreen Bypass;;Modify System Partition;;Evade Analysis Environment;Input Capture;System Information Discovery;;Capture Audio;Uncommonly Used Port;;Input Injection
+Masquerade as Legitimate Application;;Modify Trusted Execution Environment;;Geofencing;Input Prompt;System Network Configuration Discovery;;Capture Camera;Web Service;;Manipulate App Store Rankings or Ratings
+Supply Chain Compromise;;Scheduled Task/Job;;Input Injection;Keychain;System Network Connections Discovery;;Capture Clipboard Data;;;Modify System Partition
+;;;;Install Insecure or Malicious Configuration;Network Traffic Capture or Redirection;;;Capture SMS Messages;;;SMS Control
+;;;;Masquerade as Legitimate Application;URI Hijacking;;;Data from Local System;;;
+;;;;Modify OS Kernel or Boot Partition;;;;Foreground Persistence;;;
+;;;;Modify System Partition;;;;Input Capture;;;
+;;;;Modify Trusted Execution Environment;;;;Location Tracking;;;
+;;;;Native Code;;;;Network Information Discovery;;;
+;;;;Obfuscated Files or Information;;;;Network Traffic Capture or Redirection;;;
+;;;;Proxy Through Victim;;;;Screen Capture;;;
+;;;;Suppress Application Icon;;;;;;;
+;;;;Uninstall Malicious Application;;;;;;;

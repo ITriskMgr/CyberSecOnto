@@ -1,0 +1,34 @@
+Spécialisation;Rôle NICE;NICE ID 
+RED Team;Mission Assessment Specialist ;AN-ASA-002 
+;Target Developer ;AN-TGT-001 
+;Target Network Analyst ;AN-TGT-002 
+;Multi-Disciplined Language Analyst ;AN-LNG-001 
+BLUE Team;Software Developer ;SP-DEV-001 
+;Secure Software Assessor ;SP-DEV-002 
+;System Testing and Evaluation Specialist  ;SP-TST-001 
+;Cyber Defense Analyst ;PR-CDA-001 
+;Cyber Defense Infrastructure Support Specialist ;PR-INF-001 
+;Cyber Defense Incident Responder  ;PR-CIR-001 
+;Vulnerability Assessment Analyst ;PR-VAM-001 
+;Threat/Warning Analyst ;AN-TWA-001 
+;All Source-Collection Manager ;CO-CLO-001 
+;Cyber Crime Investigator ;IN-INV-001 
+;Law Enforcement /CounterIntelligence Forensics Analyst ;IN-FOR-001 
+;Cyber Defense Forensics Analyst ;IN-FOR-002 
+Exploitation;Information Systems Security Developer  ;SP-SYS-001 
+;Systems Developer  ;SP-SYS-002 
+;Database Administrator ;OM-DTA-001 
+;Technical Support Specialist ;OM-STS-001 
+;Network Operations Specialist ;OM-NET-001 
+;System Administrator ;OM-ADM-001 
+;Exploitation Analyst ;AN-EXP-001 
+;All-Source Analyst ; AN-ASA-001 
+;Partner Integration Planner ;CO-OPL-003 
+;Cyber Operator ;CO-OPS-001 
+Architecte en cybersécurité;Enterprise Architect;SP-ARC-001
+;Security Architect;SP-ARC-002
+Sécurité physique;;
+;;
+;;
+;;
+;;
