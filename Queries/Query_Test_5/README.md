@@ -6,11 +6,11 @@ Finallym theses are matched to the graph.
 
 Here is an example of the queries used:
 
-PREFIX : <http://webprotege.stanford.edu/> 
+PREFIX : <https://w3id.org/cyberseconto/> 
 
-PREFIX fts: <tag:stardog:api:property:textmatch:> 
+PREFIX fts: <urn:store-specific-full-text-search:> 
 
-PREFIX fots: <tag:stardog:api:search:> 
+PREFIX fots: <urn:store-specific-full-text-search:> 
 
 PREFIX  dc: <http://purl.org/dc/terms/> 
 

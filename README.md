@@ -1,6 +1,6 @@
 # CyberSecOnto — Cybersecurity Competencies Ontology
 
-An OWL 2 ontology that integrates cybersecurity professional-competency frameworks (NIST NICE / NCWF, MITRE ATT&CK, CISSP and organisational job profiles) so they can be queried together for talent management. It was developed by Marc-André Léger at the Université du Québec en Outaouais (UQO) using an Action Design Research methodology, with a focus on the financial services industry in Canada.
+An OWL 2 ontology that integrates cybersecurity professional-competency frameworks (NIST NICE / NCWF, MITRE ATT&CK, CISSP and organisational job profiles) so they can be queried together for talent management. It was developed by Marc-André Léger at the Université du Québec en Outaouais (UQO) as his doctoral thesis using an Action Design Research methodology, with a focus on the financial services industry in Canada.
 
 This repository holds the ontology, the source data, the queries and the test results used in the project. They are provided to reviewers to document the process and the results.
 
@@ -16,8 +16,8 @@ This repository holds the ontology, the source data, the queries and the test re
 | Object properties | 23 |
 | Data properties | 11 |
 | Named individuals | 30 |
-| Triples | 44,439 |
-| Format | RDF/XML (`Ontology/CyberSecCompetencies_2_5a.owl`), authored in WebProtégé |
+| Triples | 44,446 |
+| Format | RDF/XML (`Ontology/CyberSecCompetencies_2_5a.owl`), authored in WebProtégé, identifiers under `https://w3id.org/cyberseconto/` |
 | Competency model | Know-what, know-how and know-how-to-be, with KSAs, tasks, roles and certifications |
 | Frameworks integrated | NIST SP 800-181 NICE / NCWF, MITRE ATT&CK (Enterprise, ICS, Mobile), CISSP, business job profiles |
 
@@ -31,6 +31,7 @@ Counts were obtained by loading the OWL file with rdflib on 2026-11-26.
 | `Competency/` | Source and working data as CSV and SQL: NICE roles, tasks, KSAs and competencies; CISSP; business job profiles; MITRE ATT&CK tables for Enterprise, ICS and Mobile |
 | `KSA-001/` | Working documents for the NIST NCWF / NICE framework, including per-role KSA and task lists, the master lists, `NIST.SP.800-181r1.pdf` and the `CompetencyData_v3-0c/0d` workbooks |
 | `MITRE_Att&ck/` | The ATT&CK Enterprise STIX file (`enterprise-attack.json`) used in the ontology |
+| `w3id/` | Redirect rules and instructions for the `https://w3id.org/cyberseconto/` identifiers |
 | `Queries/` | The initial queries, the five validation tests (SPARQL results) and the classification workbooks, with a README describing each test |
 | Root `.docx` / `.pptx` | Competency mapping documents, question pairs and scale descriptions that accompany the study |
 
@@ -40,13 +41,11 @@ Each folder carries a copy of the licence, and most have a short README.
 
 Open `Ontology/CyberSecCompetencies_2_5a.owl` in Protégé, or load it with any RDF library.
 
-**Note on identifiers.** The ontology IRI is a WebProtégé project address (`http://webprotege.stanford.edu/project/DpeZFWjjTksyFnolG1b70o`). It is not a stable, dereferenceable namespace.
+**Identifiers.** Terms use opaque identifiers under `https://w3id.org/cyberseconto/` (for example `https://w3id.org/cyberseconto/R3gN1PNpJvG0Zl5HixPNl`); the ontology IRI is `https://w3id.org/cyberseconto/cyberseconto` and version 2.5a is `https://w3id.org/cyberseconto/2.5a/cyberseconto`. The redirect rules are in `w3id/`; see `w3id/HOWTO.md` for their registration status. The earlier WebProtégé addresses are no longer used.
 
 ## Running the queries
 
-The queries were run in Stardog Studio against a Stardog server hosted for the project. That server is not a public service and access requires an account; contact the project team. To reproduce the results without it, load the OWL file into any SPARQL-capable triple store (Stardog, Apache Jena Fuseki, GraphDB or Oxigraph) and run the queries described in `Queries/README.md`.
-
-The summary of calculations and formulas is in `Queries/Results_Classification_v1-2e.xlsx`.
+The queries in `Queries/` were run in a SPARQL-capable triple store loaded with the ontology. To reproduce them, load `Ontology/CyberSecCompetencies_2_5a.owl` into a store of your choice (Apache Jena Fuseki, GraphDB, Oxigraph and others) and run the queries described in `Queries/README.md`. The full-text search used in the document-matching tests is store-specific and must be adapted to your store. The summary of calculations and formulas is in `Queries/Results_Classification_v1-2e.xlsx`.
 
 ## Licence and attribution
 
@@ -58,7 +57,9 @@ Third-party material keeps its own terms (see `NOTICE.md`) and is included here 
 
 See `CITATION.cff` (GitHub shows a "Cite this repository" button). In short:
 
-Léger, M.-A. (2026). *CyberSecOnto: cybersecurity competencies ontology*, version 2.5a. Université du Québec en Outaouais. https://github.com/ITriskMgr/CyberSecOnto
+Léger, M.-A. (2026). *CyberSecOnto: cybersecurity competencies ontology*, version 2.5a. https://github.com/ITriskMgr/CyberSecOnto
+
+The study behind it: Léger, M.-A. (2021). *Implementing information technology management with an ontology of cybersecurity professional skills* [Doctoral thesis, Université du Québec en Outaouais]. Dépôt institutionnel de l'UQO. https://di.uqo.ca/id/eprint/1497 ([PDF](https://di.uqo.ca/id/eprint/1497/1/Leger_Marc-Andre_2021_these.pdf))
 
 ## Related projects
 

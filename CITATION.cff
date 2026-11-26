@@ -5,7 +5,7 @@ version: 2.5a
 date-released: 2026-11-26
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/ITriskMgr/CyberSecOnto"
-url: "https://www.leger.ca"
+url: "https://w3id.org/cyberseconto/"
 authors:
   - family-names: "Léger"
     given-names: "Marc-André"
@@ -13,3 +13,14 @@ authors:
     affiliation: "Université du Québec en Outaouais"
 abstract: "An OWL 2 ontology of cybersecurity professional competencies that integrates NIST NICE / NCWF, MITRE ATT&CK, CISSP and organisational job profiles for talent management, developed with an Action Design Research methodology for the financial services industry in Canada. The repository also holds the source data, SPARQL queries and test results."
 keywords: [ontology, OWL 2, cybersecurity, competencies, skills, NICE framework, MITRE ATT&CK, talent management, SPARQL]
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Léger"
+      given-names: "Marc-André"
+  title: "Implementing information technology management with an ontology of cybersecurity professional skills"
+  thesis-type: "Doctoral thesis"
+  year: 2021
+  institution:
+    name: "Université du Québec en Outaouais"
+  url: "https://di.uqo.ca/id/eprint/1497"

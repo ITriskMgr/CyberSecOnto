@@ -1,0 +1,16 @@
+# w3id.org/cyberseconto - CyberSecOnto (cybersecurity competencies ontology)
+# Maintainer: Marc-André Léger (GitHub: ITriskMgr). Source: https://github.com/ITriskMgr/CyberSecOnto
+Options +FollowSymLinks
+RewriteEngine on
+
+# RDF requests: the ontology (RDF/XML) for the ontology IRI and for every term
+RewriteCond %{HTTP_ACCEPT} (application/rdf\+xml|text/turtle|application/x-turtle|application/ld\+json|application/n-triples)
+RewriteRule ^(cyberseconto)?$ https://raw.githubusercontent.com/ITriskMgr/CyberSecOnto/main/Ontology/CyberSecCompetencies_2_5a.owl [R=303,L]
+RewriteCond %{HTTP_ACCEPT} (application/rdf\+xml|text/turtle|application/x-turtle|application/ld\+json|application/n-triples)
+RewriteRule ^[A-Za-z0-9]+$ https://raw.githubusercontent.com/ITriskMgr/CyberSecOnto/main/Ontology/CyberSecCompetencies_2_5a.owl [R=303,L]
+
+# Version IRI: https://w3id.org/cyberseconto/2.5a/cyberseconto -> the file in the repository
+RewriteRule ^2\.5a/cyberseconto$ https://raw.githubusercontent.com/ITriskMgr/CyberSecOnto/main/Ontology/CyberSecCompetencies_2_5a.owl [R=303,L]
+
+# Everything else (browsers): the repository page
+RewriteRule ^.*$ https://github.com/ITriskMgr/CyberSecOnto [R=303,L]

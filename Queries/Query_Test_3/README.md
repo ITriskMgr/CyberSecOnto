@@ -5,20 +5,20 @@ This is linked to query 4 looking for the know-what required for the role of Blu
 the results of which are presented in table 9 in the dissertation. 
 The Blue Team Analyst was also used in Q8, Q12 and Q19.
 
+> Note: the `fts:textMatch` full-text search is specific to the triple store used in the study; adapt it to your own store.
+
 **Here is an example of the query that is used:**
 
 From the tasks and KSAs identified the SPARQL query was created, which is presented below: 
 
-prefix fts: <tag:stardog:api:property:textmatch:>
-
-prefix stardogapi: <tag:stardog:api:>
+prefix fts: <urn:store-specific-full-text-search:>
 
 select ?entity ?doc ?mention ?type ?label 
 
 where {
   
   
-?doc stardogapi:property:textMatch 
+?doc fts:textMatch 
 
     "Blue Team Analyst",
     
@@ -55,7 +55,7 @@ graph ?doc
   {
        
        
-?doc stardog:docs:hasEntity ?entity .
+?doc docs:hasEntity ?entity .
 
 
 ?entity <http://purl.org/dc/terms/references> ?mention

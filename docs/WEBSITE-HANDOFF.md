@@ -21,14 +21,14 @@
 | Format | RDF/XML, authored in WebProtégé |
 | Licence | CC BY-NC-SA 4.0 |
 | Status | Research artefact; not maintained against later NICE or ATT&CK releases |
-| Ontology IRI | WebProtégé project address; not a stable, dereferenceable namespace |
+| Ontology IRI | `https://w3id.org/cyberseconto/cyberseconto` (redirect rules prepared in `w3id/`; not yet registered with w3id.org, so do not present it as resolving) |
 
 ## 3. Mandatory messages
 
 1. **Research artefact.** Present it as the result of a research project, not as a maintained standard.
 2. **Non-commercial licence.** CC BY-NC-SA 4.0. Say that commercial or other reuse must be discussed with the project team (marcandre@leger.ca).
 3. **No endorsement.** Not affiliated with or endorsed by NIST, MITRE or (ISC)². Do not use their logos.
-4. **No public query endpoint.** The Stardog server used for the study is not a public service. Do not publish its address as a service.
+4. **No public query endpoint.** There is no public SPARQL service; do not suggest one.
 5. **Independence.** CyberSecOnto is separate from CRGO and FCGO. Do not claim integration.
 
 Short banner (EN): *Research artefact, version 2.5a. Licensed CC BY-NC-SA 4.0.*
@@ -65,7 +65,9 @@ Link to GitHub rather than copying files onto the site, unless the owner asks ot
 
 ## 6. Citation
 
-Léger, M.-A. (2026). *CyberSecOnto: cybersecurity competencies ontology*, version 2.5a. Université du Québec en Outaouais. https://github.com/ITriskMgr/CyberSecOnto
+Léger, M.-A. (2026). *CyberSecOnto: cybersecurity competencies ontology*, version 2.5a. https://github.com/ITriskMgr/CyberSecOnto
+
+Thesis: Léger, M.-A. (2021). *Implementing information technology management with an ontology of cybersecurity professional skills* [Doctoral thesis, Université du Québec en Outaouais]. https://di.uqo.ca/id/eprint/1497 (PDF: https://di.uqo.ca/id/eprint/1497/1/Leger_Marc-Andre_2021_these.pdf). Link to it on the page.
 
 ## 7. Attribution text for the page
 
