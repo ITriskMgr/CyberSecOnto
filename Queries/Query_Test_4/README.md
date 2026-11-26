@@ -1,17 +1,19 @@
-This is the F1-test that is used to demonstrate the repeatability of the Stardog query results in the ontology. 
+This is the F1-test that is used to demonstrate the repeatability of the query results in the ontology. 
 The ontology is used to identify the job descriptions and work roles that are best suited to handle a security incident.
 The security incidents are based on the MITRE Att&ck framework scenarios, in particular the Tactics, such as T1199. 
 The tactics are mitigated by mitigation measure recommendations in the MITRE framework, such as M1030.
 
-**Here is an example of the SPARQL queries used in Stardog for this test:**
+> Note: the `fts:textMatch` full-text search is specific to the triple store used in the study; adapt it to your own store.
 
-prefix stardogapi: <tag:stardog:api:>
+**Here is an example of the SPARQL queries used for this test:**
+
+prefix fts: <urn:store-specific-full-text-search:>
 
 select ?entity ?doc ?mention ?type ?label 
 
 where {
 
-?doc stardogapi:property:textMatch 
+?doc fts:textMatch 
 
   "System Security Analyst",
   
@@ -29,7 +31,7 @@ where {
 
 graph ?doc  {
 
-?doc stardog:docs:hasEntity ?entity .
+?doc docs:hasEntity ?entity .
 
 ?entity <http://purl.org/dc/terms/references> ?mention }
 
